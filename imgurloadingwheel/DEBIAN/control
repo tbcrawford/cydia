@@ -1,0 +1,9 @@
+Package: imgurloadingwheel
+Name: Imgur Loading Wheel
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This loading wheel is a port of the imgur loading animation and works system-wide.
+Maintainer: superp0s
+Author: superp0s
+Section: Themes (SpringBoard)
