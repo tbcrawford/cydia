@@ -1,2 +1,2 @@
-find . -name “*.deb” -exec rm -rf {} \;
+rm -rf debs
 rm -r Packages.bz2
