@@ -5,3 +5,4 @@ dpkg -b projects/infiniboot4 debs
 dpkg -b projects/infiniboot5 debs
 dpkg -b projects/infiniboot6 debs
 dpkg -b projects/infiniboot6plus debs
+dpkg -b projects/standardpackages debs
