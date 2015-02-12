@@ -1,0 +1,10 @@
+Package: com.superp0s.ibfix
+Name: ibfix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An attempt to fix a problem with IconBundles on iPad w/ retina
+Maintainer: Tyler Crawford
+Author: Tyler Crawford
+Section: Tweaks
+Version: 0.0.1-1
+Installed-Size: 68
