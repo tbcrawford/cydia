@@ -1,2 +1,1 @@
-#!/bin/bash
-dpkg-scanpackages ./ /dev/null |gzip > Packages.gz
+dpkg-scanpackages . /dev/null | gzip > Packages.gz
