@@ -1,7 +1,7 @@
 Origin: TCrawford Repo
 Label: TCrawford Public Repo
 Suite: stable
-Version: 1.0
+Version: 0.9
 Codename: tcrawfordrepo
 Architectures: iphoneos-arm
 Components: main
