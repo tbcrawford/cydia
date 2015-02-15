@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: superp0s
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//projects/ibfix/com.superp0s.ibfix_0.0.1-3_iphoneos-arm.deb
+Filename: .//debs/com.superp0s.ibfix_0.0.1-3_iphoneos-arm.deb
 Size: 9468
 MD5sum: 2c6093c327d8ba6c8106db9531ac72a0
 SHA1: 11a9441c7672012054a2d81e4cd98b6697eb2b7c
