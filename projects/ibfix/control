@@ -1,9 +1,9 @@
 Package: com.superp0s.ibfix
-Name: IconBundles Fix
+Name: IBFix
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An attempt to fix a problem with IconBundles on iPad w/ retina.
-Maintainer: tcrawford
-Author: tcrawford
+Description: An attempt to fix IconBundles on iPad with retina.
+Maintainer: superp0s
+Author: superp0s
 Section: Tweaks

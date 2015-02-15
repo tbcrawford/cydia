@@ -1,6 +1,6 @@
-TWEAK_NAME = ibfix
-ibfix_FILES = Tweak.xm
-ibfix_FRAMEWORKS = UIKit
+TWEAK_NAME = IBFix
+IBFix_FILES = Tweak.xm
+IBFix_FRAMEWORKS = UIKit
 TARGET = iphone:8.1:5.0
 ARCHS = armv7 arm64
 
