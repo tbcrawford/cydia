@@ -1,6 +1,6 @@
 ./remove.sh
 ./packages.sh
-./import.sh
+#./import.sh
 
-dpkg-scanpackages debs -m . >Packages
+dpkg-scanpackages -m . /dev/null > Packages
 bzip2 Packages
