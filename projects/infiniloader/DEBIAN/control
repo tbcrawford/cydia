@@ -1,7 +1,7 @@
 Package: com.superp0s.infiniloader
 Name: InfiniLoader
 Depends: winterboard
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Description: This is an animation loader that appears as though it is a circle unraveling infinitely.
 Maintainer: superp0s
