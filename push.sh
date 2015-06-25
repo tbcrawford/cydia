@@ -1,2 +1,2 @@
 dpkg-scanpackages . /dev/null > Packages
-bzip2 -fks Packages
+bzip2 Packages
