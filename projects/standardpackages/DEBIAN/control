@@ -1,0 +1,9 @@
+Package: com.superp0s.standardpackages
+Name: Standard Packages
+Depends: libactivator, com.yllier.blockernetworks, com.fortysixandtwo.alkaline, com.hackyouriphone.alldrop, com.zaxdo.animate8, org.thebigboss.appcolorclose, com.mileskabal.appinfo, com.saurik.afc2d, net.angelxwind.appsyncunified, com.hackyouriphone.barrel, com.myrepospace.basic.basic, com.andywiik.bdayspotify, com.hackyouriphone.betterwifi7, com.bytafont.bytafont2, com.myrepospace.wmuff.ccclockopentoalarm8, org.thebigboss.detailedbatteryusage, com.sull.filzafilemanager, com.hackyouriphone.flex2, com.exile90.icleanerpro, com.codethemed.iconbundles, com.myrepospace.dbk1ng.ios7beta1font, com.evilgoldfish.lockglyph, com.tylr.mobius, net.angelxwind.mikoto, com.ichitaso.mobileterminal, org.ilendsoft.no-percent-sign, com.pnre.noannoyance, openssh, org.thebigboss.photoinfo, com.dpkgdan.powertap, org.ppsspp.ppsspp-dev-latest, com.modmyi.rechrgforalkaline, com.hackyouriphone.springtomize3, com.thireus.untrustedhostsblocker, winterboard, com.hackyouriphone.upnext, com.myrepospace.superp0s.zanilla, org.thebigboss.zanillatheme
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Adds essential packages so they don’t need to be added manually, personal use only.
+Maintainer: superp0s
+Author: superp0s
+Section: superp0s
