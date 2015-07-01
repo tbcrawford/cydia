@@ -1,9 +1,0 @@
-Package: com.tcrawford.standardpackages
-Name: Personal Packages
-Depends: 
-Version: 1.2
-Architecture: iphoneos-arm
-Description: Adds essential packages so they do not need to be added manually, personal use only.
-Maintainer: tcrawford
-Author: tcrawford
-Section: Utilities

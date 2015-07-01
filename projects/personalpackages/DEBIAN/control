@@ -1,0 +1,9 @@
+Package: com.tcrawford.personalpackages
+Name: Personal Packages
+Depends: com.fortysixandtwo.alkaline, org.thebigboss.appcolorclose, com.mileskabal.appinfo, net.angelxwind.appsyncunified, com.rbt.batterylife
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Adds essential packages so they do not need to be added manually, personal use only.
+Maintainer: tcrawford
+Author: tcrawford
+Section: Utilities
