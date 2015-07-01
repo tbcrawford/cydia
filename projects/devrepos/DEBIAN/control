@@ -1,6 +1,6 @@
 Package: com.tcrawford.devrepos
 Name: Repository List
-Version: 1.1.2
+Version: 1.1.2b
 Architecture: iphoneos-arm
 Description: Adds essential repositories so they don’t need to be added manually. Public use is allowed.
 Maintainer: tcrawford

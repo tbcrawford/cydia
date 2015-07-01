@@ -24,4 +24,4 @@ deb http://wynd07.appspot.com/r7/ ./
 deb http://pw5a29.github.io/ ./
 deb http://arcetera.github.io ./
 deb http://elijahandandrew.com/repo ./
-dep http://repo.cydro.us/ ./
+deb http://repo.cydro.us/ ./
