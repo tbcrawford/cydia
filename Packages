@@ -5,9 +5,9 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot4_1.0.1_iphoneos-arm.deb
 Size: 4395050
-MD5sum: b2f0eed123e7e37b3f4abf5f86f885af
-SHA1: 66ddb9e61acedf7d78486c0b2de44b5da36973f7
-SHA256: 42cc7857f4aa5518042c6b6edd4af219a7f4449ecdd486ae199f86fb13a806d0
+MD5sum: 085aecf7cb96be07e821768fb36d67a8
+SHA1: ddcc3d9add2a29034d32feccb857b4f1dba7b700
+SHA256: 06d14b48a312e0f3c720df423c83a7139e810676155fa63d8579b40d45e1f1bf
 Section: Addons (BootLogo)
 Description: InfiniBoot4 for iPhone 4/4s is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
@@ -20,9 +20,9 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot5_1.0_iphoneos-arm.deb
 Size: 4425472
-MD5sum: 7ecc70473f453ecfb6cf1e7d1781b824
-SHA1: 6e46cc3288058759d7e1834d7fb2fef734e08d4c
-SHA256: 00aa05df0ca4fcade279dd7414caa3499135f1c7ad1a7c141fd40d68cb8eafa0
+MD5sum: e0268571f24b608a026fb17c736e2d7e
+SHA1: 9724757540932e3e68117aa062cd7f3cc05f7098
+SHA256: 05c8d05a696cb038f5063bf780bbf58f7be91793f5e006a018052ebd1729d07b
 Section: Addons (BootLogo)
 Description: InfiniBoot5for iPhone 5/5s/5c is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
@@ -35,9 +35,9 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot6_1.0_iphoneos-arm.deb
 Size: 4484720
-MD5sum: ea736c85bb42a8ecf14b70a5fa62d045
-SHA1: f74cbbaacbba43a050641b67b44ca35a0586ea20
-SHA256: 54e1204295384471eb139b4c9a3bfb8e82759924cdab45ff5b0a8f152b475229
+MD5sum: 3dc2f30dfb59481b4bd36d84b4468fe5
+SHA1: 805a26f5b4706a37fc79f80abdeb87053d642fad
+SHA256: 05e7bdbe39e1c6f847ef71917e56c8b5595bb0cd176d8f7380660a04613ec40f
 Section: Addons (BootLogo)
 Description: InfiniBoot6 for iPhone 6 is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
@@ -50,9 +50,9 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot6plus_1.0_iphoneos-arm.deb
 Size: 4806514
-MD5sum: fa904726b53486c7171e894c79ea4751
-SHA1: a7d1f60a1434e357d21eb0e9a3baf469d4003085
-SHA256: 0969b04a3dd8f1a006529754ffd0230b2cb4e6398d5597a6bc7e9baeaabd6c76
+MD5sum: 551efebaa384fb21534dd231fd540981
+SHA1: e65273d5931808a30f5845d97e8d552ca3008dc2
+SHA256: a41f8574fe33ae15e91014cb9741bb7a0959c4f5ed3f9e7e414620fd50316208
 Section: Addons (BootLogo)
 Description: InfiniBoot6+ for iPhone 6 Plus is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
@@ -65,43 +65,41 @@ Maintainer: superp0s
 Depends: winterboard
 Filename: .//debs/com.superp0s.infiniloader_1.0.3_iphoneos-arm.deb
 Size: 151726
-MD5sum: 4674b488b6350995415927e2d59d40ca
-SHA1: 9f147cc009cee37e2f4f703228af7924568e8cf4
-SHA256: bb74889f65715316bd57cf497e1ae7031cd4ca1375766d2ab271e8faa7759926
+MD5sum: 6bf5a4e56d569e72fcb09cfcb85762de
+SHA1: c4955e3a7536efd0cbaaaeb4d26d09efbf72ff27
+SHA256: aeb0c81898fc3f860eaba9927cf9367778c4def37251b39191cc1404b64ab1df
 Section: Themes (SpringBoard)
 Description: This is an animation loader that appears as though it is a circle unraveling infinitely.
 Author: superp0s <superp0s.1110@gmail.com>
 Name: InfiniLoader
 
-Package: com.superp0s.loader
-Version: 1.0.1
+Package: com.tcrawford.devrepos
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: superp0s
-Depends: winterboard
-Filename: .//debs/com.superp0s.loader_1.0.1_iphoneos-arm.deb
-Size: 151718
-MD5sum: 51846c4b7c0297e7ea1e853a9554873a
-SHA1: e7952207926562ab5f0637d1c40132a0d7d74706
-SHA256: 62606f006ed6fabd1fc893b02828ed7466eb8f72261ce7c8b3a6dd5781f9a83e
-Section: Themes (SpringBoard)
-Description: This is an animation loader that appears as though it is a circle unraveling infinitely.
-Author: superp0s <superp0s.1110@gmail.com>
-Name: Loader
+Maintainer: tcrawford
+Filename: .//debs/com.tcrawford.devrepos_1.0_iphoneos-arm.deb
+Size: 718
+MD5sum: 50c7a74dcace4877d08a125d03a57c52
+SHA1: bbdf446aa5e8fa1f11f83942ae111decf17a2c6f
+SHA256: e2c17cf08bba16b3ee8f96491b100dd883cb83af3cbd2f078836957188b7269c
+Section: Utilities
+Description: Adds essential repositories so they don’t need to be added manually. Public use is allowed. Version 1.0 was designed for iOS 8.3-8.4.
+Author: tcrawford
+Name: Repository List
 
-Package: com.superp0s.standardpackages
-Version: 1.1
+Package: com.tcrawford.standardpackages
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: superp0s
-Depends: libactivator, com.yllier.blockernetworks, com.fortysixandtwo.alkaline, com.hackyouriphone.alldrop, com.zaxdo.animate8, org.thebigboss.appcolorclose, com.mileskabal.appinfo, com.saurik.afc2d, net.angelxwind.appsyncunified, com.hackyouriphone.barrel, com.myrepospace.basic.basic, com.andywiik.bdayspotify, com.hackyouriphone.betterwifi7, com.bytafont.bytafont2, com.myrepospace.wmuff.ccclockopentoalarm8, org.thebigboss.detailedbatteryusage, com.sull.filzafilemanager, com.hackyouriphone.flex2, com.exile90.icleanerpro, com.codethemed.iconbundles, com.myrepospace.dbk1ng.ios7beta1font, com.evilgoldfish.lockglyph, com.tylr.mobius, net.angelxwind.mikoto, com.ichitaso.mobileterminal, org.ilendsoft.no-percent-sign, com.pnre.noannoyance, openssh, org.thebigboss.photoinfo, com.dpkgdan.powertap, org.ppsspp.ppsspp-dev-latest, com.modmyi.rechrgforalkaline, com.hackyouriphone.springtomize3, com.thireus.untrustedhostsblocker, winterboard, com.hackyouriphone.upnext, com.myrepospace.superp0s.zanilla, org.thebigboss.zanillatheme
-Filename: .//debs/com.superp0s.standardpackages_1.1_iphoneos-arm.deb
-Size: 1174
-MD5sum: 6a101ded75bd24160ace689140631805
-SHA1: d3055b6ef7a20c4903423bf8d8fff893f13d1770
-SHA256: 8bcfd8128d70cabf987fbfaf4e4b221e4aaa29a65307e6de8f94ff8ef3f69981
-Section: superp0s
-Description: Adds essential packages so they don’t need to be added manually, personal use only.
-Author: superp0s
-Name: Standard Packages
+Maintainer: tcrawford
+Filename: .//debs/com.tcrawford.standardpackages_1.2_iphoneos-arm.deb
+Size: 686
+MD5sum: c14f6e6676587f92122563af5bae0440
+SHA1: 5895ac11b1a82b71f608c95f40958d16b040cb3e
+SHA256: 914954df689acc49be85db01e38097f8f462ae7eee25a2106d3b3aa301989eda
+Section: Utilities
+Description: Adds essential packages so they do not need to be added manually, personal use only.
+Author: tcrawford
+Name: Personal Packages
 
 Package: imgurloadingwheel
 Version: 1.0
@@ -110,9 +108,9 @@ Maintainer: superp0s
 Depends: winterboard
 Filename: .//debs/imgurloadingwheel_1.0_iphoneos-arm.deb
 Size: 351046
-MD5sum: 6ac9b7cbad1542603ea05f3144b96b01
-SHA1: bf7630fc03bbb62fc249b87e19670e43f47c7bf4
-SHA256: 4fa756d0a752070a40cc9aae45c7c92ef09ac24a89d74db83392c6f217d7da05
+MD5sum: 8cf68de13c940c7bf4846398e870d6d0
+SHA1: f52118704021d6d3f19da9d4cb582cb56a45c602
+SHA256: 706ac755cf1dd4e680f160f617a7a5f0e38b1229d47b71716a71b1e06a1aab03
 Section: Themes (SpringBoard)
 Description: This loading wheel is a port of the imgur loading animation and works system-wide.
 Author: superp0s

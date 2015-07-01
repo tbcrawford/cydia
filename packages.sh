@@ -5,5 +5,5 @@ dpkg-deb -bZgzip projects/infiniboot5 debs
 dpkg-deb -bZgzip projects/infiniboot6 debs
 dpkg-deb -bZgzip projects/infiniboot6plus debs
 dpkg-deb -bZgzip projects/standardpackages debs
-dpkg-deb -bZgzip projects/loader debs
+dpkg-deb -bZgzip projects/devrepos debs
 

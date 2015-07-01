@@ -1,9 +1,0 @@
-Package: com.superp0s.loader
-Name: Loader
-Depends: winterboard
-Version: 1.0.1
-Architecture: iphoneos-arm
-Description: This is an animation loader that appears as though it is a circle unraveling infinitely.
-Maintainer: superp0s
-Author: superp0s <superp0s.1110@gmail.com>
-Section: Themes (SpringBoard)
