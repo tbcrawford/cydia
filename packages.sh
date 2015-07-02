@@ -11,6 +11,6 @@ dpkg-deb -bZgzip projects/infiniboot6plus debs
 dpkg-deb -bZgzip projects/infiniloader debs
 dpkg-deb -bZgzip projects/lockkeyboard1-beta2 debs
 dpkg-deb -bZgzip projects/personalpackages debs
-cd projects/firsttweak
+cd ../projects/firsttweak
 make package
 mv *.deb /Users/tylercrawford/Documents/Programming/github/tcrawford14.github.io/debs
