@@ -1,4 +1,4 @@
-Package: com.superp0s.infiniloader
+Package: com.tcrawford.infiniloader
 Name: InfiniLoader
 Depends: winterboard
 Version: 1.0.3
