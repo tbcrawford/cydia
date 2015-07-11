@@ -1,17 +1,12 @@
-deb http://apt.pwncenter.com/ ./
-deb http://apt.s1ris.com/ ./
 deb http://apt.steverolfe.com/ ./
 deb http://chewitt.me/repo/ ./
 deb http://coolstar.org/publicrepo/ ./
 deb http://cydia.angelXwind.net/ ./
 deb http://cydia.myrepospace.com/imlemonpartying/ ./
-deb http://cydia.myrepospace.com/superp0s/ ./
 deb http://cydia.myrepospace.com/wmuff/ ./
 deb http://cydia.ppsspp.org/ ./
 deb http://dbk1ng.myrepospace.com/ ./
-deb http://ib-soft.net/cydia/ ./
 deb http://getdelta.co/ ./
-deb http://kindadev.com/apt/ ./
 deb http://repo.hackyouriphone.org/ ./
 deb http://repo.insanelyi.com/ ./
 deb http://repo.maxkatzmann.us ./
