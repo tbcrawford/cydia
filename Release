@@ -1,8 +1,8 @@
-Origin: tcrawford Public Repository
-Label: tcrawford Public Repository
+Origin: tcrawford Public Repo
+Label: tcrawford's Public Repository
 Suite: stable
-Version: 0.9
-Codename: tcrawfordrepo
+Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: tcrawford Public Repository
+Description: tcrawford Public Repo is primarily a testing ground for /u/superp0s

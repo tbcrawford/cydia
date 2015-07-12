@@ -1,0 +1,14 @@
+<repofooter>
+	<footerlinks>
+		<link>
+			<name>Message me on Reddit!</name>
+			<url>https://www.reddit.com/user/superp0s/</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>Repo Source Code</name>
+			<url>https://github.com/tcrawford14/tcrawford14.github.io</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repofooter>
