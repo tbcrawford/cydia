@@ -1,14 +1,14 @@
 Package: com.superp0s.firsttweak
-Version: 0.0.1-14
+Version: 0.0.1-15
 Architecture: iphoneos-arm
 Maintainer: tcrawford
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//debs/com.superp0s.firsttweak_0.0.1-14_iphoneos-arm.deb
-Size: 3072
-MD5sum: 315880588624c3a0dc51bfe9af15a30f
-SHA1: 2880351d7849a4ceb293e7615c9fc0021bc88977
-SHA256: e1ba1f1cb44413aebe66892318e327cd8411203a0796370c3ee1b915134eaaca
+Filename: .//debs/com.superp0s.firsttweak_0.0.1-15_iphoneos-arm.deb
+Size: 3076
+MD5sum: 608ca6111c7a58f19cbdffb3646b0228
+SHA1: 386575d54e73bc72961fac20493ebe97cbeec84e
+SHA256: 3b7b281dbbb4110be9ad6cab07b93223c606a8447a474124a8bc9af811be3e42
 Section: Tweaks
 Description: This is just a test tweak for learning purposes.
 Author: tcrawford
@@ -21,9 +21,9 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot4_1.0.1_iphoneos-arm.deb
 Size: 4395050
-MD5sum: 2e4c1899367b1ab2e86a050090fc6287
-SHA1: d4e941cd02d4fe1d90b2215fa3f161d9f37de5d3
-SHA256: 7694d82f77655a15e9f67035b02cd657cc172564bf584fc872287dd775aa8881
+MD5sum: 74ef21b529e240f643f8de5ec020d84d
+SHA1: bb6c903b4f84562a0cd5ddea4fda5854079cb5d0
+SHA256: 733e37cdfe2f5b5c11a4e7ce118296a50da892636615046bc7c17c4c60ffd552
 Section: Addons (BootLogo)
 Description: InfiniBoot4 for iPhone 4/4s is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
@@ -36,9 +36,9 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot5_1.0_iphoneos-arm.deb
 Size: 4425472
-MD5sum: 2a95a5d445c153af596d626a4319f86c
-SHA1: 0bb308a5e3eebc3343c9b6c3f81d2b110e7a88f6
-SHA256: f040355f4b83a3472f1076a86340a4358d5d37e0aa45e811dde990429e1cd743
+MD5sum: e63fac0352f98a002b1a2e105e3e9947
+SHA1: 3b4d686649dd049cd84164bd01afb8d185dd966e
+SHA256: fea76310aca9b006d0a9637a66d7970c1beb49d63956c1bb2681fdc10deab38c
 Section: Addons (BootLogo)
 Description: InfiniBoot5for iPhone 5/5s/5c is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
@@ -51,9 +51,9 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot6_1.0_iphoneos-arm.deb
 Size: 4484720
-MD5sum: a34cccc60563762cd67988b379eeaa29
-SHA1: 40e88149200db9c100defca8a854446b7ce95559
-SHA256: a14c9d5973d558e8d20123dd76170dd8be047eff545572999310cef2ee8a7c72
+MD5sum: 52f0abc77a74c592159bafe05aa2321d
+SHA1: ae35a04b5d533c757ac92169c0ead4ed9ecaabb3
+SHA256: 4fcfaf5d20135c20074f402f7c0c782019f25626f2600322081f4c484a6ca884
 Section: Addons (BootLogo)
 Description: InfiniBoot6 for iPhone 6 is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
@@ -66,25 +66,25 @@ Maintainer: superp0s
 Depends: com.zaxdo.animate8
 Filename: .//debs/com.superp0s.infiniboot6plus_1.0_iphoneos-arm.deb
 Size: 4806514
-MD5sum: f3e2aa5a7d318e59130bc3e2a4b694ea
-SHA1: 2e66a97d237e329748b3bccb30e1daa0a4c00172
-SHA256: 61127e3ff83c565c680fdd0bf498f6d7430eb09ea137ab3e84eda5fa7e194e76
+MD5sum: 5582a836f970be0b6a6c54c49fb98fc7
+SHA1: aebf685b7dbec44d6b4519ca6bcdad7af8ea587e
+SHA256: e37a82d2e3f4c7988be7024278b079a22d790597ea6580562efad12dc4790fff
 Section: Addons (BootLogo)
 Description: InfiniBoot6+ for iPhone 6 Plus is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Author: superp0s
 Name: InfiniBoot6+
 
 Package: com.tcrawford.devrepos
-Version: 1.1.2b
+Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: tcrawford
-Filename: .//debs/com.tcrawford.devrepos_1.1.2b_iphoneos-arm.deb
-Size: 1108
-MD5sum: 7c8cef3b1545d137219c152f9ce130cf
-SHA1: ce1ee945b48a32ac70c60eecf297c34a81306160
-SHA256: 1dc0295510868fc02cc662660dcfb1af8f0da22f7801d0b54b61db7478138867
+Filename: .//debs/com.tcrawford.devrepos_1.1.3_iphoneos-arm.deb
+Size: 1066
+MD5sum: e64b8d34ec0da803073f376e28b58509
+SHA1: ab48a62db28655a4aedc0cad911188b5d4e8d296
+SHA256: 2632c0ae33b32a8e422e1e91400bf4f82f34a00cd403d9c595ab67f06889e16f
 Section: Utilities
-Description: Adds essential repositories so they don’t need to be added manually. Public use is allowed.
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
 Author: tcrawford
 Name: Repository List
 
@@ -95,9 +95,9 @@ Maintainer: superp0s
 Depends: winterboard
 Filename: .//debs/com.tcrawford.infiniloader_1.0.3_iphoneos-arm.deb
 Size: 151724
-MD5sum: c5b80fada7c4cb4eb7339df1a8a43bbf
-SHA1: b08dfd18a0471e111186b1adde32b8a09c291ce6
-SHA256: a3c78be333b629ee38e918a993ef213993c72cdf47aea43de760ce284be74290
+MD5sum: 25516c3d149b26fecfc024af6901d69a
+SHA1: fecdf126b190bd57ffdd3e9abfd6de690099b6e2
+SHA256: 843295a181994587bad845a8e38ac618d1af7d7c7e6a99c79052cf9d19b35bce
 Section: Themes (SpringBoard)
 Description: This is an animation loader that appears as though it is a circle unraveling infinitely.
 Author: superp0s <superp0s.1110@gmail.com>
@@ -110,9 +110,9 @@ Maintainer: tcrawford
 Depends: com.fortysixandtwo.alkaline, org.thebigboss.appcolorclose, com.mileskabal.appinfo, com.saurik.afc2d, net.angelxwind.appsyncunified, com.rbt.batterylife, com.efrederickson.batteryusageenhancer, com.hackyouriphone.bdayspotify, com.hackyouriphone.betterwifi7, com.myrepospace.wmuff.ccclockopentoalarm8, com.noeliel.cheesecake, com.sull.colorkeyboardforios7, com.r333d.cylinder, com.hackyouriphone.ifile, org.thebigboss.gridswitcher, com.cpdigitaldarkroom.hideme8-lite, com.exile90.icleanerpro, com.codethemed.iconbundles, com.ichitaso.mobileterminal, com.evilgoldfish.lockglyph, ws.hbang.lockkeyboardbeta-2, net.angelxwind.mikoto, com.reddestdream.minimalhostsblocker, com.modmyi.minimalios8, com.tylr.mobius, com.hackyouriphone.muze, org.ilendsoft.no-percent-sign, com.pnre.noannoyance, com.greeny.notracking, openssh, org.thebigboss.photoinfo, com.efrederickson.powersaver, com.dpkgdan.powertap, com.efrederickson.reachapp, com.modmyi.rechrgforalkaline, org.thebigboss.smoothcursor, org.thebigboss.smoothpop, com.modmyi.softkeysounds, com.hackyouriphone.swipeexpander, winterboard, org.thebigboss.zanillatheme, com.myrepospace.superp0s.zanilla
 Filename: .//debs/com.tcrawford.personalpackages_2.0_iphoneos-arm.deb
 Size: 1212
-MD5sum: d74dfdd1d5a7e6c833fb29597b41f584
-SHA1: b7aac267ea498bda837b1267f3197152f9f77b5d
-SHA256: 0a73b86faa391574f7527ecad0d7f5719f9f08333eb102be139aa8ca7e23bfcc
+MD5sum: b75ef9072d6f52d2c30cfc7efaa6773b
+SHA1: a7dc8df237848eeee788bceebebf67cff14b7a26
+SHA256: e627a6badd6efe56a351c31ac031d8c411ea09ce50f8dc89b24cdf1683691090
 Section: Utilities
 Description: Adds essential packages so they do not need to be added manually, personal use only.
 Author: tcrawford
@@ -125,9 +125,9 @@ Maintainer: HASHBANG Productions <support@hbang.ws>
 Depends: mobilesubstrate, firmware (>= 7.1)
 Filename: .//debs/ws.hbang.lockkeyboardbeta-2_1.0~beta2_iphoneos-arm.deb
 Size: 4900
-MD5sum: e165fa51db47542e815c761f4ce6f9bf
-SHA1: 3b649e224163388e2ab25457f1dd4b5dbce92b08
-SHA256: bdc1414f846613024bcd77e7dbec71665d4f3884a90419eec292896d25687396
+MD5sum: 7376ddcb297fe339174871f955b8dcad
+SHA1: 2db2dfcdf094596fe6f568e08c8320ad63205b3d
+SHA256: 058cdd560ee29ac41ca38cc6a704134a6ed19f69f4ab1b61fa330eea0cb67707
 Section: Tweaks
 Description: Lock screen style keyboard everywhere. This is a save of beta 2 for ease of installation
 Author: HASHBANG Productions <support@hbang.ws>
