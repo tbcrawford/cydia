@@ -23,7 +23,10 @@
 		</description>
 	</descriptionlist>
 
-    <changelog> 
+    <changelog>
+		<change>Minor UI Improvements</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
 
 
