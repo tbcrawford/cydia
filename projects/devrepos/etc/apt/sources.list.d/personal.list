@@ -14,7 +14,6 @@ deb http://repo.pnre.co/ ./
 deb http://repo.thireus.com/ ./
 deb http://repo.tylercasson.com/ ./
 deb http://rpetri.ch/repo/ ./
-deb http://tcrawford.me/ ./
 deb http://wynd07.appspot.com/r7/ ./
 deb http://pw5a29.github.io/ ./
 deb http://arcetera.github.io ./
