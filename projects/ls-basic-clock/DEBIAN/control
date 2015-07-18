@@ -1,6 +1,6 @@
 Package: com.tcrawford.ls-basic-clock
 Name: LS Basic Clock
-Version: 1.0.4
+Version: 1.0.5
 Depends: com.groovycarrot.groovylock
 Architecture: iphoneos-arm
 Description: Adds a simple clock with the option for a background color. Clock color, background color, 12 or 24 hour clock, the ability to show background or not, and the position from the top of the screen, are all added options.
