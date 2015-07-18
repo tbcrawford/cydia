@@ -101,6 +101,21 @@ Description: This is an animation loader that appears as though it is a circle u
 Author: superp0s <superp0s.1110@gmail.com>
 Name: InfiniLoader
 
+Package: com.tcrawford.ls-basic-clock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: tcrawford <dev.tcrawford@gmail.com>
+Depends: com.groovycarrot.groovylock
+Filename: .//debs/com.tcrawford.ls-basic-clock_1.0.0_iphoneos-arm.deb
+Size: 100262
+MD5sum: 0950e70f47aa9adb90b47785ac732078
+SHA1: f975a48747aaf36e46cd167cf3fa3c127191455f
+SHA256: b2538a77b2cc9e216cb40809dce6b4b496e12f0c514bf81d5a879df30891eba3
+Section: Themes (Lockscreen)
+Description: Adds a simple clock with the option for a background color. Clock color, background color, 12 or 24 hour clock, the ability to show background or not, and the position from the top of the screen, are all added options.
+Author: tcrawford <dev.tcrawford@gmail.com>
+Name: LS Basic Clock
+
 Package: com.tcrawford.personalpackages
 Version: 2.0
 Architecture: iphoneos-arm
