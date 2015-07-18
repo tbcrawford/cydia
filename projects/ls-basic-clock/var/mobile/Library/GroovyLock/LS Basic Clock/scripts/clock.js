@@ -11,27 +11,27 @@ function updateClock() {
     var hours24 = now.getHours();
     var hours12 = now.getHours();
     var minutes = now.getMinutes();
-    
+
     // If the twelve hour time is greater than 12, subtract 12
     hours12 = (hours12 > 12) ? hours12 - 12 : hours12;
     hours12 = (hours12 === 0) ? 12 : hours12;
-    
+
     // If the number of minutes is '8', then make it '08'
     if (minutes < 10) {
         minutes = '0' + minutes;
     }
-    
+
     // Set by config.js (configuration file for users)
     if (twentyfourhourtime === true) {
         var time = hours24 + ':' + minutes;
     } else {
         var time = hours12 + ":" + minutes;
     }
-    
-    
+
+
     document.getElementById('clock').style.color = timeColor;
     document.getElementById('clock').innerHTML = time;
-    
+
     // Set by config.js (configuration for users)
     if (showBackground === true) {
         // Show background color
@@ -40,8 +40,8 @@ function updateClock() {
     } else {
         $('#clock').css('background-color', 'rgba(0,0,0,0)');
     }
-    
-    // 
+
+    //
     $('html').css('top', clockPosFromTop + "px");
 }
 

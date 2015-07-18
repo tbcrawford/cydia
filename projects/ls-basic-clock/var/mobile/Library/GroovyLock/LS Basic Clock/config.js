@@ -14,4 +14,4 @@ var bgColor = "rgba(240, 240, 240, 0.5)";
 
 // The position in pixels that the clock will appear from the top of the screen
 // (negative values are allowed)
-var clockPosFromTop = 0;
+var clockPosFromTop = "0";
