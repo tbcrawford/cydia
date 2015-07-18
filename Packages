@@ -88,6 +88,21 @@ Description: Adds a simple Android M inspried clock and date with the options to
 Author: tcrawford <dev.tcrawford@gmail.com>
 Name: Android M LS
 
+Package: com.tcrawford.android-m-ls
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: tcrawford <dev.tcrawford@gmail.com>
+Depends: mobilesubstrate
+Filename: .//debs/com.tcrawford.android-m-ls_1.0.2_iphoneos-arm.deb
+Size: 421162
+MD5sum: 0f542d28e07ba7cc6ea4a7c894cb2a13
+SHA1: e1ec6a9cc74af35d78adfa765e5dbf601ecd8342
+SHA256: 21944ff33c8ca4335b18c6db6cd98f76f788112bf9d9eaa0303da8efe9508260
+Section: Themes (Lockscreen)
+Description: Adds a simple Android M inspried clock and date with the options to change clock color, date color, 12 or 24 hour clock, font-family (Which can be one of the following: 'Roboto-Regular', 'Roboto-Medium', 'Roboto-Thin', or 'Roboto-Light'), and the position from the top of the screen.
+Author: tcrawford <dev.tcrawford@gmail.com>
+Name: Android M LS
+
 Package: com.tcrawford.devrepos
 Version: 1.1.3
 Architecture: iphoneos-arm
