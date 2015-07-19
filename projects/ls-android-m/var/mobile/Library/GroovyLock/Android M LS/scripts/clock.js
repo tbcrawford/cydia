@@ -37,6 +37,10 @@ function updateClock() {
     
     var nowDate = dayArray[day] + ", " + monthArray[month] + " " + numDay;
 
+    // Gets the device width to center the widget
+    var deviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+    
+    document.getElementById('container').style.width = deviceWidth;
     document.getElementById('clock').style.fontFamily = clockFont;
     document.getElementById('date').style.fontFamily = dateFont;
     document.getElementById('clock').style.color = timeColor;

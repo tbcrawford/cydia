@@ -19,7 +19,7 @@
 }
 
 html {
-    position: relative;
+    position: fixed;
 }
 
 body {
@@ -28,23 +28,15 @@ body {
     font-family: 'Roboto-Regular';
 }
 
-.container {
-    position: relative;
-    margin-left: 24%;
-    margin-right: 24%;
-}
 
 #clock {
     text-align: center;
-    padding-top: 7%;
-    padding-right: 12%;
-    padding-left: 12%;
-    font-size: 96px;
+    font-size: 102px;
     letter-spacing: 2px;
 }
 
 #date {
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 15px;
+    font-size: 16px;
 }
