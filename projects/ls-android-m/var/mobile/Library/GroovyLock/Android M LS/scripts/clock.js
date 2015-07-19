@@ -44,7 +44,7 @@ function updateClock() {
     document.getElementById('clock').style.fontFamily = clockFont;
     document.getElementById('date').style.fontFamily = dateFont;
     document.getElementById('clock').style.color = timeColor;
-    document.getElementById('clock').innerHTML = time;
+//    document.getElementById('clock').innerHTML = time;
     document.getElementById('date').style.color = dateColor;
     document.getElementById('date').innerHTML = nowDate;
 
