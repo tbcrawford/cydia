@@ -4,26 +4,27 @@
 }
 
 html {
-    position: relative;
+    position: fixed;
 }
 
 body {
     position: inherit;
-    text-align: center;
+    left: 50%;
+    right: 50%;
     font-family: 'Quicksand';
+    margin-top: 8%;
+    margin-left: -32px; /* Half of the height */
+    transform: translate(-50%, -50%);
 }
 
 #box {
-    position: relative;
-    margin-top: 14%;
-    margin-left: 36%;
-    margin-right: 36%;
-    font-size: 10px;
+    height: 64px;
+    width: 140px;
 }
 
 #clock {
     text-align: center;
-    padding: 12%;
+    padding: 10%;
     font-size: 30px;
     letter-spacing: 2px;
 }
