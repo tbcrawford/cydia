@@ -28,6 +28,10 @@ body {
     font-family: 'Roboto-Regular';
 }
 
+#container {
+    margin-left: 50%;
+    margin-right: 50%;
+}
 
 #clock {
     text-align: center;
