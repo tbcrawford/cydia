@@ -13,7 +13,7 @@ body {
     right: 50%;
     font-family: 'Quicksand';
     margin-top: 8%;
-    margin-left: -32px; /* Half of the height */
+    margin-left: -70px;  /* Half of the height */
     transform: translate(-50%, -50%);
 }
 
