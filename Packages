@@ -177,66 +177,6 @@ Author: superp0s <superp0s.1110@gmail.com>
 Name: InfiniLoader
 
 Package: com.tcrawford.ls-basic-clock
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: com.groovycarrot.groovylock
-Filename: .//debs/com.tcrawford.ls-basic-clock_1.0.5_iphoneos-arm.deb
-Size: 100082
-MD5sum: eab7e443f787a5199e629d1d71135574
-SHA1: a9202856480abe97a3ba454a6cfcee5e270bd4e5
-SHA256: 2aeaf9bf528fdb2384f650f33b7fdc7747f974d658e114096f327ba1f302b7c3
-Section: Themes (Lockscreen)
-Description: Adds a simple clock with the option for a background color. Clock color, background color, 12 or 24 hour clock, the ability to show background or not, and the position from the top of the screen, are all added options.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: LS Basic Clock
-
-Package: com.tcrawford.ls-basic-clock
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: com.groovycarrot.groovylock
-Filename: .//debs/com.tcrawford.ls-basic-clock_1.0.6_iphoneos-arm.deb
-Size: 100086
-MD5sum: f69c2c3b7191f6c5b389087b3384f197
-SHA1: 1a69d1cc6ce128379eaeabda7fcbf3bacde64c8a
-SHA256: 4ff1847ede76c47bfe27cd95a778d39e34dc5a312ba301f185558e24689c8dad
-Section: Themes (Lockscreen)
-Description: Adds a simple clock with the option for a background color. Clock color, background color, 12 or 24 hour clock, the ability to show background or not, and the position from the top of the screen, are all added options.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: LS Basic Clock
-
-Package: com.tcrawford.ls-basic-clock
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: com.groovycarrot.groovylock, mobilesubstrate
-Filename: .//debs/com.tcrawford.ls-basic-clock_1.0.7_iphoneos-arm.deb
-Size: 100098
-MD5sum: b059fb0f4e054cea886a869a99f9c3e4
-SHA1: ba892f7858013cec7efba3d30bea246de2a17ed3
-SHA256: 7c1489ba1f2729ec7f7d7730be8f29c140583fdeca6d648daaecef0b54274151
-Section: Themes (Lockscreen)
-Description: Adds a simple clock with the option for a background color. Clock color, background color, 12 or 24 hour clock, the ability to show background or not, and the position from the top of the screen, are all added options.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: LS Basic Clock
-
-Package: com.tcrawford.ls-basic-clock
-Version: 1.0.8
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: mobilesubstrate
-Filename: .//debs/com.tcrawford.ls-basic-clock_1.0.8_iphoneos-arm.deb
-Size: 100076
-MD5sum: 425f09ab67ab69fe8802887359c61498
-SHA1: 190e37653d69f20d74626ce81cebfb25dee459be
-SHA256: 523fa2f13e75570502ba59bb3017d90cf907fa69712253a602c04408793a87d8
-Section: Themes (Lockscreen)
-Description: Adds a simple clock with the option for a background color. Clock color, background color, 12 or 24 hour clock, the ability to show background or not, and the position from the top of the screen, are all added options.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: LS Basic Clock
-
-Package: com.tcrawford.ls-basic-clock
 Version: 1.0.9
 Architecture: iphoneos-arm
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
