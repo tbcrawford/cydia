@@ -13,8 +13,8 @@ for dir in `find projects -type d -maxdepth 1 | tail -n +2`; do
 
     # For each file in the debs folder
     for file in `ls debs`; do
-        # If the file name equals the debian name (pkgid), exists is "true"
-        # else false
+        # If the file name equals the debian name (pkgid), 'exists' = "true"
+        # else 'exists' = "false"
         if [ "$file" == "$pkgid" ]; then
             exist="true"
             break
