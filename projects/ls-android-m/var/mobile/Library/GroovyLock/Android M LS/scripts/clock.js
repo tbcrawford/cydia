@@ -41,6 +41,7 @@ function updateClock() {
     var deviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
     
     document.getElementById('container').style.width = deviceWidth;
+    document.getElementById('date').style.textTransform = dateTextTransform;
     document.getElementById('clock').style.fontSize = clockFontSize;
     document.getElementById('date').style.fontSize = dateFontSize;
     document.getElementById('clock').style.fontFamily = clockFont;

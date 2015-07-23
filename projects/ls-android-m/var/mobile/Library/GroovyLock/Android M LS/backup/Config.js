@@ -6,3 +6,4 @@ var dateFontSize = "16px"; // The date's font size
 var clockPositionFromTop = 46; // Position from the top of the screen
 var clockFont = "Roboto-Light"; // Navigate to fonts.txt in /var/mobile/Library/GroovyLock/Android M LS/fonts for options (14 font-families)
 var dateFont = "Roboto-Regular"; // Navigate to fonts.txt in /var/mobile/Library/GroovyLock/Android M LS/fonts for options (14 font-families)
+var dateTextTransform = "uppercase"; // Options: none, capitalize, uppercase, lowercase, initial, inherit

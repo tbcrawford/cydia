@@ -59,30 +59,15 @@ Author: superp0s
 Name: InfiniBoot6+
 
 Package: com.tcrawford.android-m-ls
-Version: 1.3.1
+Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
 Depends: mobilesubstrate
-Filename: .//debs/com.tcrawford.android-m-ls_1.3.1_iphoneos-arm.deb
-Size: 4786770
-MD5sum: e752f2a6b9e277f0e1e8910071e4bbc6
-SHA1: 8272a967ddce4f2683d1a20479868e4a31d41d7e
-SHA256: 76d81150fac1e3255a603d75863d6e689f86ab66e41ccf7834cf7271ce8bda58
-Section: Themes (Lockscreen)
-Description: Adds a simple Android M inspried clock and date with the options to change clock color, date color, 12 or 24 hour clock, font-family (Which can be one of the following: 'Roboto-Regular', 'Roboto-Medium', 'Roboto-Thin', or 'Roboto-Light'), and the position from the top of the screen.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: Android M LS
-
-Package: com.tcrawford.android-m-ls
-Version: 1.3.2
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: mobilesubstrate
-Filename: .//debs/com.tcrawford.android-m-ls_1.3.2_iphoneos-arm.deb
-Size: 4786620
-MD5sum: 2cac2e9d00549654d52096afc802bf0c
-SHA1: 3e3c7d23f6cf4d98921acaf5415cccd410234fa1
-SHA256: b932051b893e0ccb3810ba72b53ca149812ec89fc95a445b6dc4af41c26d42f1
+Filename: .//debs/com.tcrawford.android-m-ls_1.3.3_iphoneos-arm.deb
+Size: 4786712
+MD5sum: 974d7a147e37687e4c7984cd7a6bc076
+SHA1: f962cda2696237ff204b34bc27c56281ab68d2d5
+SHA256: fcbfb5c11f7759e6c1f8165fcfd6b8e3305f1a5e86347812ac1a4d1ff5ccbace
 Section: Themes (Lockscreen)
 Description: Adds a simple Android M inspried clock and date with the options to change clock color, date color, 12 or 24 hour clock, font-family (Which can be one of the following: 'Roboto-Regular', 'Roboto-Medium', 'Roboto-Thin', or 'Roboto-Light'), and the position from the top of the screen.
 Author: tcrawford <dev.tcrawford@gmail.com>
