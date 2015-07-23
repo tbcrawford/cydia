@@ -1,0 +1,84 @@
+Font Families (Alphabetical):
+(Popular ones are stared **, but ** is not part of font-family name)
+
+Armata
+Dancing_Script
+Great_Vibes
+Kaushan_Script
+Lobster
+** Open_Sans
+Pacifico
+Pinyo_Script
+Playball
+** Quicksand
+** Roboto
+** San_Francisco (Apple's new stock font!)
+** Source_Code_Pro
+** Source_Sans_Pro
+Tangerine
+
+
+All Font Options (what to put in options field in GroovyLock):
+(Pick only one for each slot.
+
+Roboto-Black
+Roboto-BlackItalic
+Roboto-Bold
+Roboto-BoldItalic
+Roboto-Italic
+Roboto-Light
+Roboto-LightItalic
+Roboto-Medium
+Roboto-MediumItalic
+Roboto-Regular
+Roboto-Thin
+Roboto-ThinItalic
+Armata-Regular
+DancingScript-Bold
+DancingScript-Regular
+GreatVibes-Regular
+KaushanScript-Regular
+OpenSans-Bold
+OpenSans-BoldItalic
+OpenSans-ExtraBold
+OpenSans-ExtraBoldItalic
+OpenSans-Italic
+OpenSans-Light
+OpenSans-LightItalic
+OpenSans-Regular
+OpenSans-Semibold
+OpenSans-SemiboldItalic
+Pacifico
+PinyoScript-Regular
+Playball-Regular
+Quicksand-Bold
+Quicksand-BoldItalic
+Quicksand-Italic
+Quicksand-Light
+Quicksand-LightItalic
+Quicksand-Regular
+San-Francisco-Bold
+San-Francisco-Regular
+San-Francisco-Thin
+San-Francisco-Ultralight
+SourceCodePro-Black
+SourceCodePro-Bold
+SourceCodePro-ExtraLight
+SourceCodePro-Light
+SourceCodePro-Medium
+SourceCodePro-Regular
+SourceCodePro-Semibold
+SourceSansPro-Black
+SourceSansPro-BlackItalic
+SourceSansPro-Bold
+SourceSansPro-BoldItalic
+SourceSansPro-ExtraLight
+SourceSansPro-ExtraLightItalic
+SourceSansPro-Italic
+SourceSansPro-Light
+SourceSansPro-LightItalic
+SourceSansPro-Regular
+SourceSansPro-Semibold
+SourceSansPro-SemiboldItalic
+Tangerine_Bold
+Tangerine_Regular
