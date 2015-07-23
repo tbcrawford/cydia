@@ -1,6 +1,8 @@
-var twentyFourHourTime = false;
-var timeColor = "#FFFFFF";
-var dateColor = "#FFFFFF";
-var clockPosFromTop = 100;
-var clockFont = "Roboto-Light"; // Options: "Roboto-Regular", "Roboto-Medium", "Roboto-Thin", or "Roboto-Light"
-var dateFont = "Roboto-Regular";  // Options: "Roboto-Regular", "Roboto-Medium", "Roboto-Thin", or "Roboto-Light"
+var twentyFourHourTime = false; // 24 hour clock - true; 12 hour clock - false
+var timeColor = "#000000"; // Color of the time
+var dateColor = "#000000"; // Color of the date
+var clockFontSize = "102px"; // The clock's font size
+var dateFontSize = "16px"; // The date's font size
+var clockPositionFromTop = 46; // Position from the top of the screen
+var clockFont = "Roboto-Light"; // Options: Roboto-Regular, Roboto-Medium, Roboto-Thin, or Roboto-Light
+var dateFont = "Roboto-Regular"; // Options: Roboto-Regular, Roboto-Medium, Roboto-Thin, or Roboto-Light

@@ -41,6 +41,8 @@ function updateClock() {
     var deviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
     
     document.getElementById('container').style.width = deviceWidth;
+    document.getElementById('clock').style.fontSize = clockFontSize;
+    document.getElementById('date').style.fontSize = dateFontSize;
     document.getElementById('clock').style.fontFamily = clockFont;
     document.getElementById('date').style.fontFamily = dateFont;
     document.getElementById('clock').style.color = timeColor;
@@ -49,7 +51,7 @@ function updateClock() {
     document.getElementById('date').innerHTML = nowDate;
 
     // Widget position from the topof the screen
-    $('html').css('top', clockPosFromTop + "px");
+    $('html').css('top', clockPositionFromTop + "px");
 }
 
 setInterval(updateClock, 1000);
