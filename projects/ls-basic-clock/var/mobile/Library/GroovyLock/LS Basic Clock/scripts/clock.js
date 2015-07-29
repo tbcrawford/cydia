@@ -28,21 +28,32 @@ function updateClock() {
         var time = hours12 + ":" + minutes;
     }
 
+    var marginLeft = -1 * (boxWidth / 2);
 
-    document.getElementById('clock').style.color = timeColor;
-    document.getElementById('clock').innerHTML = time;
+    $('#clock').html(time);
+    $('#clock').css('color', timeColor);
+    $('#box').css('width', boxWidth + "px");
+    $('#box').css('height', boxHeight + "px");
+    $('#clock').css('text-align', textAlign);
+    $('#clock').css('font-size', fontSize + "px");
+    $('#clock').css('letter-spacing', letterSpacing + "px")
 
     // Set by config.js (configuration for users)
     if (showBackground === true) {
         // Show background color
-        // $('#clock').css({"background-color": "rgba(240, 240, 240, 0.5)"});
         $('#clock').css('background-color', bgColor);
     } else {
         $('#clock').css('background-color', 'rgba(0,0,0,0)');
     }
 
-    //
+    if (showShadow === true) {
+        $('#clock').css('box-shadow', shadow);
+    }
+
+    // Due to the way these tags act, the JQuery method was used to put items where
+    // they need to be at runtime
     $('html').css('top', clockPosFromTop + "px");
+    $('body').css('margin-left', marginLeft + "px")
 }
 
 setInterval(updateClock, 1000);

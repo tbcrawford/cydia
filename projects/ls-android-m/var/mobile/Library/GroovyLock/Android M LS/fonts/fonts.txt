@@ -16,6 +16,8 @@ Playball
 ** Source_Code_Pro
 ** Source_Sans_Pro
 Tangerine
+** Ubuntu
+** UbuntuMono
 
 
 All Font Options (what to put in options field in GroovyLock):
@@ -82,3 +84,16 @@ SourceSansPro-Semibold
 SourceSansPro-SemiboldItalic
 Tangerine_Bold
 Tangerine_Regular
+Ubuntu-Bold
+Ubuntu-Black
+Ubuntu-Condensed
+Ubuntu-Light
+Ubuntu-LightItalic
+Ubuntu-Medium
+Ubuntu-MediumItalic
+Ubuntu-Regular
+Ubuntu-RegularItalic
+UbuntuMono-Bold
+UbuntuMono-Black
+UbuntuMono-Regular
+UbuntuMono-RegularItalic

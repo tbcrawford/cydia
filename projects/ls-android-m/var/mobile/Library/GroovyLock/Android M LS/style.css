@@ -303,6 +303,71 @@
     src: url('fonts/Tangerine/Tangerine_Regular.ttf');
 }
 
+@font-face {
+    font-family: 'Ubuntu-Bold';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-B.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-Black';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-Bl.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-Condensed';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-C.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-Light';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-L.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-LightItalic';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-LI.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-Medium';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-M.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-MediumItalic';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-MI.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-Regular';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-R.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu-RegularItalic';
+    src: url('fonts/ubuntu-font-family-0.80/Ubuntu-RI.ttf');
+}
+
+@font-face {
+    font-family: 'UbuntuMono-Bold';
+    src: url('fonts/ubuntu-font-family-0.80/UbuntuMono-B.ttf');
+}
+
+@font-face {
+    font-family: 'UbuntuMono-Black';
+    src: url('fonts/ubuntu-font-family-0.80/UbuntuMono-Black.ttf');
+}
+
+@font-face {
+    font-family: 'UbuntuMono-Regular';
+    src: url('fonts/ubuntu-font-family-0.80/UbuntuMono-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'UbuntuMono-RegularItalic';
+    src: url('fonts/ubuntu-font-family-0.80/UbuntuMono-RegularItalic.ttf');
+}
+
 html {
     position: fixed;
 }

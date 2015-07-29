@@ -147,6 +147,21 @@ Description: Adds a simple clock with the options to change the clock color, bac
 Author: tcrawford <dev.tcrawford@gmail.com>
 Name: LS Basic Clock
 
+Package: com.tcrawford.ls-basic-clock
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: tcrawford <dev.tcrawford@gmail.com>
+Depends: mobilesubstrate
+Filename: .//debs/com.tcrawford.ls-basic-clock_1.2.0_iphoneos-arm.deb
+Size: 100466
+MD5sum: e92db2e860cc63f266ae4c3f1a66bb19
+SHA1: eea7543ff7f9e99fa36618e40968a7dce13dd177
+SHA256: 0f63220142f219f91194c2dc8a7b6250b96e18159555f7f3ecfad1e250d449e3
+Section: Themes (Lockscreen)
+Description: This very customizable clock will fit the wants and needs of anyone who desires simplicity.
+Author: tcrawford <dev.tcrawford@gmail.com>
+Name: Elemental LS
+
 Package: com.tcrawford.personalpackages
 Version: 2.0
 Architecture: iphoneos-arm

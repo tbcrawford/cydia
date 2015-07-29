@@ -13,18 +13,13 @@ body {
     right: 50%;
     font-family: 'Quicksand';
     margin-top: 8%;
-    margin-left: -70px;  /* Half of the height */
     transform: translate(-50%, -50%);
 }
 
 #box {
-    height: 64px;
-    width: 140px;
+
 }
 
 #clock {
-    text-align: center;
     padding: 10%;
-    font-size: 30px;
-    letter-spacing: 2px;
 }
