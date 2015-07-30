@@ -116,66 +116,6 @@ Description: This is an animation loader that appears as though it is a circle u
 Author: superp0s <superp0s.1110@gmail.com>
 Name: InfiniLoader
 
-Package: com.tcrawford.ls-basic-clock
-Version: 1.2.4
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: com.tcrawford.ls-elemental
-Filename: .//debs/com.tcrawford.ls-basic-clock_1.2.4_iphoneos-arm.deb
-Size: 100700
-MD5sum: bb08f266b0ee21a2456f5f92affeb844
-SHA1: 83d5248cfe6ff057c902ca803f12a3eb69872eac
-SHA256: 129428c4a8b77548316a3fd41f65c5dfcd84d153b5c3ed2ff98d1447adadf4a4
-Section: Themes (Lockscreen)
-Description: Installs Elemental LS. It is simply LS Basic Clock renamed/rebranded. Remove this upon update.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: LS Basic Clock
-
-Package: com.tcrawford.ls-basic-clock
-Version: 1.2.5
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: com.tcrawford.ls-elemental
-Filename: .//debs/com.tcrawford.ls-basic-clock_1.2.5_iphoneos-arm.deb
-Size: 100448
-MD5sum: 861357ce147453f34841dca9349be34b
-SHA1: 31fb2a085c07c4b0a8c94e445009dae0274714a4
-SHA256: a76f49a5382d5a14b02e4e1eff4ea60cd8e065abc828221fd6084c4ad7eff472
-Section: Themes (Lockscreen)
-Description: Installs Elemental LS. It is simply LS Basic Clock renamed/rebranded. Remove this upon update.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: LS Basic Clock
-
-Package: com.tcrawford.ls-basic-clock
-Version: 1.2.6
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: com.tcrawford.ls-elemental
-Filename: .//debs/com.tcrawford.ls-basic-clock_1.2.6_iphoneos-arm.deb
-Size: 100460
-MD5sum: d974820ac0e91f440c50fd8b9b4ca50e
-SHA1: 592e8a4596d6637f22f94563d5d3514127d6b519
-SHA256: 4a4f7a07105797480a72c8b59f5e28e2d1e21a58ccc0a1e18c960605d77df4a5
-Section: Themes (Lockscreen)
-Description: Installs Elemental LS. It is simply LS Basic Clock renamed/rebranded. Remove this upon update.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: LS Basic Clock
-
-Package: com.tcrawford.ls-elemental
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Depends: mobilesubstrate
-Filename: .//debs/com.tcrawford.ls-elemental_1.0.0_iphoneos-arm.deb
-Size: 100446
-MD5sum: 974b1c6aad5dff2e4cfab1cf159b0615
-SHA1: 7a48a35f15ce42362575468c47f48df865137ba2
-SHA256: 276fae6a653efdc8bc45309208560c50b5285123fc060a382a16f4eaaca74ede
-Section: Themes (Lockscreen)
-Description: This very customizable clock will fit the wants and needs of anyone who desires simplicity.
-Author: tcrawford <dev.tcrawford@gmail.com>
-Name: Elemental LS
-
 Package: com.tcrawford.ls-elemental
 Version: 1.0.4
 Architecture: iphoneos-arm
