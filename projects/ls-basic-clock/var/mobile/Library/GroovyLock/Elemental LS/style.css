@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: url('fonts/Quicksand-Regular.ttf');
+}
+
+html {
+    position: fixed;
+}
+
+body {
+    position: inherit;
+    left: 50%;
+    right: 50%;
+    font-family: 'Quicksand';
+    margin-top: 8%;
+    transform: translate(-50%, -50%);
+}
+
+#box {
+
+}
+
+#clock {
+    padding: 10%;
+}
