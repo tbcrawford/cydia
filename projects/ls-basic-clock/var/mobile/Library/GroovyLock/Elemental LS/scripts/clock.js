@@ -47,7 +47,7 @@ function updateClock() {
     }
 
     if (showShadow === true) {
-        $('#clock').css('box-shadow', shadow);
+        $('#box').css('box-shadow', shadow);
     }
 
     // Due to the way these tags act, the JQuery method was used to put items where

@@ -1,0 +1,3 @@
+#!/bin/bash
+# cd var/mobile/Library/GroovyLock
+# rm -rf LS \Basic \Clock

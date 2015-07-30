@@ -87,6 +87,20 @@ Description: Adds essential repositories so they don’t need to be added manual
 Author: tcrawford
 Name: Repository List
 
+Package: com.tcrawford.devrepos
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: tcrawford
+Filename: .//debs/com.tcrawford.devrepos_1.1.5_iphoneos-arm.deb
+Size: 1042
+MD5sum: 7efd074c28f0666edc7b545a778cd281
+SHA1: ac5ed9efda4e9e51df9f09e0bce7f41cec64225a
+SHA256: 328c519a1a515b2786a0595a9999e4e94d580e1d6d57bed3db09587b27d047dd
+Section: Utilities
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
+Author: tcrawford
+Name: Repository List
+
 Package: com.tcrawford.infiniloader
 Version: 1.0.3
 Architecture: iphoneos-arm
