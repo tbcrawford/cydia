@@ -117,15 +117,15 @@ Author: superp0s <superp0s.1110@gmail.com>
 Name: InfiniLoader
 
 Package: com.tcrawford.ls-elemental
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
 Depends: mobilesubstrate
-Filename: .//debs/com.tcrawford.ls-elemental_1.0.4_iphoneos-arm.deb
-Size: 100540
-MD5sum: 97b117870a3c0879e4b7ae2c390c935a
-SHA1: 0d76f1472b082c738bebbe7507093c57973aabd3
-SHA256: 0fb50197d34209b584a615d1535c9a4fdea539589f796c225fd0f87261e84fb6
+Filename: .//debs/com.tcrawford.ls-elemental_1.0.5_iphoneos-arm.deb
+Size: 100468
+MD5sum: 829c33fa7f2755d88e42ee2aa43870b6
+SHA1: 599d0dcd782220c79294ea6853aaf90eb9da0f67
+SHA256: ea3b36349661aebb8d87a5e4798d0a9d107a965a9934139ebe6fbe23b8574698
 Section: Themes (Lockscreen)
 Description: Previously, LS Basic Clock, this very customizable clock will fit the wants and needs of anyone who desires simplicity.
 Author: tcrawford <dev.tcrawford@gmail.com>
