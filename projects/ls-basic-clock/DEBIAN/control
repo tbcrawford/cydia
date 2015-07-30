@@ -1,9 +1,9 @@
 Package: com.tcrawford.ls-basic-clock
-Name: Elemental LS
-Version: 1.2.2
-Depends: mobilesubstrate
+Name: LS Basic Clock
+Version: 1.2.3
+Depends: com.tcrawford.elemental-ls
 Architecture: iphoneos-arm
-Description: This very customizable clock will fit the wants and needs of anyone who desires simplicity.
+Description: Installs Elemental LS. It is simply LS Basic Clock renamed/rebranded. Remove this upon update.
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
 Author: tcrawford <dev.tcrawford@gmail.com>
 Section: Themes (Lockscreen)

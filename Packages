@@ -206,6 +206,36 @@ Description: This very customizable clock will fit the wants and needs of anyone
 Author: tcrawford <dev.tcrawford@gmail.com>
 Name: Elemental LS
 
+Package: com.tcrawford.ls-basic-clock
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: tcrawford <dev.tcrawford@gmail.com>
+Depends: com.tcrawford.elemental-ls
+Filename: .//debs/com.tcrawford.ls-basic-clock_1.2.3_iphoneos-arm.deb
+Size: 734
+MD5sum: 5e6b4714832b928ad984f29ebf6980ac
+SHA1: cbc08d385dacd64c9042c7d59322268f5a20bc04
+SHA256: db98abc72002d1eb9a06664fc55ce294002dd8aa9d3c98188b7bdf2f20303f61
+Section: Themes (Lockscreen)
+Description: Installs Elemental LS. It is simply LS Basic Clock renamed/rebranded. Remove this upon update.
+Author: tcrawford <dev.tcrawford@gmail.com>
+Name: LS Basic Clock
+
+Package: com.tcrawford.ls-elemental
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: tcrawford <dev.tcrawford@gmail.com>
+Depends: mobilesubstrate
+Filename: .//debs/com.tcrawford.ls-elemental_1.0.0_iphoneos-arm.deb
+Size: 100446
+MD5sum: 974b1c6aad5dff2e4cfab1cf159b0615
+SHA1: 7a48a35f15ce42362575468c47f48df865137ba2
+SHA256: 276fae6a653efdc8bc45309208560c50b5285123fc060a382a16f4eaaca74ede
+Section: Themes (Lockscreen)
+Description: This very customizable clock will fit the wants and needs of anyone who desires simplicity.
+Author: tcrawford <dev.tcrawford@gmail.com>
+Name: Elemental LS
+
 Package: com.tcrawford.personalpackages
 Version: 2.0
 Architecture: iphoneos-arm
