@@ -39,9 +39,9 @@ function updateClock() {
     $('#clock').css('letter-spacing', letterSpacing + "px")
 
     // Set by config.js (configuration for users)
-    if (showBackground === true) {
+    if (showBox === true) {
         // Show background color
-        $('#clock').css('background-color', bgColor);
+        $('#clock').css('background-color', boxColor);
     } else {
         $('#clock').css('background-color', 'rgba(0,0,0,0)');
     }
