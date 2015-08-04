@@ -22,10 +22,16 @@ function updateClock() {
     }
 
     // Set by config.js (configuration file for users)
-    if (twentyfourhourtime === true) {
+    if (twentyfourhourtime) {
         var time = hours24 + ':' + minutes;
     } else {
-        var time = hours12 + ":" + minutes;
+        var time = hours12 + ':' + minutes;
+    }
+
+    if (zeroUnderTen) {
+        if (hours12 < 10) {
+            time = '0' + time;
+        }
     }
 
     var marginLeft = -1 * (boxWidth / 2);
@@ -35,26 +41,27 @@ function updateClock() {
     $('#box').css('width', boxWidth + "px");
     $('#box').css('height', boxHeight + "px");
     $('#clock').css('text-align', textAlign);
-    $('#clock').css('font-size', fontSize + "px");
-    $('#clock').css('letter-spacing', letterSpacing + "px")
+    $('#clock').css('font-size', fontSize);
+    $('#clock').css('letter-spacing', letterSpacing);
+    $('#clock').css('border-radius', cornerRadius);
+    $('#clock').css('border', borderStroke);
 
     // Set by config.js (configuration for users)
-    if (showBox === true) {
+    if (showBox) {
         // Show background color
         $('#clock').css('background-color', boxColor);
     } else {
         $('#clock').css('background-color', 'rgba(0,0,0,0)');
     }
 
-    if (showShadow === true) {
+    if (showShadow) {
         $('#clock').css('box-shadow', shadow);
     }
 
     // Due to the way these tags act, the JQuery method was used to put items where
     // they need to be at runtime
-    $('html').css('top', clockPosFromTop + "px");
+    $('html').css('top', clockPositionFromTop);
     $('body').css('margin-left', marginLeft + "px")
 }
 
 setInterval(updateClock, 1000);
-updateClock();
