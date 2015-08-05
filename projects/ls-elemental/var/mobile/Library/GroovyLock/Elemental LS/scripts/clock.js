@@ -60,9 +60,9 @@ function updateClock() {
 
     if (window.groovyAPI) {
         if (groovyAPI.isShowingNotifications()) {
-            $('html').animate({ 'top': "8%" }, 1000);
+            $('html').animate({ 'top': "8%" }, 800);
         } else {
-            $('html').animate({ 'top': clockPositionFromTop }, 250);
+            $('html').animate({ 'top': clockPositionFromTop }, 800);
         }
     }
 
