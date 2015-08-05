@@ -58,7 +58,7 @@ function updateClock() {
         $('#clock').css('box-shadow', shadow);
     }
 
-    if (window.groovyAPI && notification_support) {
+    if (window.groovyAPI) {
         if (groovyAPI.isShowingNotifications()) {
             $('html').animate({ 'top': "0px" }, 1000);
         } else {
