@@ -58,9 +58,15 @@ function updateClock() {
         $('#clock').css('box-shadow', shadow);
     }
 
-    // Due to the way these tags act, the JQuery method was used to put items where
-    // they need to be at runtime
-    $('html').css('top', clockPositionFromTop);
+    if (window.groovyAPI && notification_support) {
+        if (groovyAPI.isShowingNotifications()) {
+            $('html').animate({ 'top': "0px" }, 1000);
+        } else {
+            $('html').animate({ 'top': clockPositionFromTop }, 1000);
+        }
+    }
+
+    // $('html').css('top', clockPositionFromTop);
     $('body').css('margin-left', marginLeft + "px")
 }
 
