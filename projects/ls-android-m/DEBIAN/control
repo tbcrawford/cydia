@@ -1,6 +1,6 @@
 Package: com.tcrawford.android-m-ls
 Name: Android M LS
-Version: 1.3.3
+Version: 1.4.0
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Adds a simple Android M inspried clock and date with the options to change clock color, date color, 12 or 24 hour clock, font-family (Which can be one of the following: 'Roboto-Regular', 'Roboto-Medium', 'Roboto-Thin', or 'Roboto-Light'), and the position from the top of the screen.

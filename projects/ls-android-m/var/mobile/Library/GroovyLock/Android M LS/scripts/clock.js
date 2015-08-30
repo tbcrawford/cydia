@@ -1,8 +1,8 @@
 /******************************************
 * Author: tcrawford (/u/superp0s)
 * Creation Date: 7.18.15
-* Description: Creates a simple Android M 
-* inspired clock with the date that gets 
+* Description: Creates a simple Android M
+* inspired clock with the date that gets
 * updated every second (1000 ms)
 ******************************************/
 
@@ -31,15 +31,16 @@ function updateClock() {
     } else {
         var time = hours12 + ":" + minutes;
     }
-    
+
     dayArray = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
     monthArray = ["January","Febuary","March","April","May","June","July","August","September","October","November","December"];
-    
+
     var nowDate = dayArray[day] + ", " + monthArray[month] + " " + numDay;
 
     // Gets the device width to center the widget
     var deviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
-    
+
+    document.body.style.backgroundColor = bgColor;
     document.getElementById('container').style.width = deviceWidth;
     document.getElementById('date').style.textTransform = dateTextTransform;
     document.getElementById('clock').style.fontSize = clockFontSize;
