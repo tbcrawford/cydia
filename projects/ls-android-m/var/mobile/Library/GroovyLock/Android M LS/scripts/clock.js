@@ -40,7 +40,7 @@ function updateClock() {
     // Gets the device width to center the widget
     var deviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
-    document.body.style.backgroundColor = bgColor;
+    $('html').css('background-color', bgColor);
     document.getElementById('container').style.width = deviceWidth;
     document.getElementById('date').style.textTransform = dateTextTransform;
     document.getElementById('clock').style.fontSize = clockFontSize;
@@ -57,4 +57,3 @@ function updateClock() {
 }
 
 setInterval(updateClock, 1000);
-updateClock();
