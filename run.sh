@@ -11,22 +11,28 @@ for dir in `find projects -type d -maxdepth 1 | tail -n +2`; do
     arch=`grep -i "Architecture:.*" $dir/DEBIAN/control | cut -c 15-`
     pkgid="${pkg}_${ver}_${arch}.deb"
 
-    # For each file in the debs folder
-    for file in `ls debs`; do
-        # If the file name equals the debian name (pkgid), 'exists' = "true"
-        # else 'exists' = "false"
-        if [ "$file" == "$pkgid" ]; then
-            exist="true"
-            break
-        else
-            exist="false"
-        fi
-    done
+    if [[ $(ls debs) ]]; then
+        # For each file in the debs folder
+        for file in `ls debs`; do
+            # If the file name equals the debian name (pkgid), 'exists' = "true"
+            # else 'exists' = "false"
+            if [ "$file" == "$pkgid" ]; then
+                exist="true"
+                break
+            else
+                exist="false"
+            fi
+        done
 
-    # If exists = "false", build a deb of only that file
-    if [ "$exist" == "false" ]; then
+        # If exists = "false", build a deb of only that file
+        if [ "$exist" == "false" ]; then
+            dpkg-deb -bZgzip $dir debs
+        fi
+    else
+        # Build all packages normally
         dpkg-deb -bZgzip $dir debs
     fi
+
 done
 
 # Build packages file, bzip2 the file
