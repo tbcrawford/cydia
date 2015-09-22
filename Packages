@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: James Addyman
 Filename: .//debs/com.jamsoftonline.provenance_1.1.6_iphoneos-arm.deb
 Size: 13705776
-MD5sum: fbb6e481bf48b47bc024697c7031e8a4
-SHA1: 7017fecdd61e162e1a8b78478408146dd865c13b
-SHA256: 78bce1297e8c9433499ba668532592740aec1afdde19611fa0e5eb1917f1d564
+MD5sum: 1b9c7bc12b6ed74281761b6e08fef153
+SHA1: c172f082921bc99bb4cfcd21718afea364cc0e38
+SHA256: a267a4027a578a8b1fa5cd9c97424d6d52cf8f36f1a47b54ac041f822f9afaaf
 Section: Applications
 Description: Provenance is a mobile emulator maintained and authored by James Addyman. It is being packaged by myself to test and allow others to download if they feel so desired. I am not responsible for any damage this may do, nor any bugs it may have. This is a first time test build and packaging of this so be warned.
 Author: James Addyman
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Riley Testut
 Filename: .//debs/com.rileytestut.tcrawford.gba4ios_2.1_iphoneos-arm.deb
 Size: 7813290
-MD5sum: cde5a836fb8dce9fbacd1a2cc70e8841
-SHA1: b8350708ef9c49a7e4a70d7261d27cf923098cfc
-SHA256: 2e85dc5e4d532aa372b10784729308d8f03615debb6249214ef43b5a709e1266
+MD5sum: c4c31e4b43406014bdf81714bc135bc2
+SHA1: 37f36299f7abbadc36d919f1281f635eb48150b1
+SHA256: 093d6b005994993fc68c75398b91c2bc53227a45c39b5066defd8bd00e7ec95c
 Section: Applications
 Description: This involved having to fix numerous problems relating to the added CocoaPods libraries. Hopefully things are indeed fix as they should be. Be warned, this is tcrawford’s test build of the GBA4iOS source code. Install this at your own risk as of now.
 Author: Riley Testut
