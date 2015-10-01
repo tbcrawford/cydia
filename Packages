@@ -6,20 +6,7 @@ Description: Provenance is a mobile emulator maintained and authored by James Ad
 Maintainer: James Addyman
 Author: James Addyman
 Section: Games
-MD5sum: 
-Size: 13719424
-Filename: debs/com.jamsoftonline.provenance.deb
-Depiction: https://tcrawford.me/depictions/?p=com.jamsoftonline.provenance
-
-Package: com.jamsoftonline.provenance
-Name: Provenance
-Version: 1.2
-Architecture: iphoneos-arm
-Description: Provenance is a mobile emulator maintained and authored by James Addyman. It is being packaged by myself to test and allow others to download if they feel so desired. I am not responsible for any damage this may do, nor any bugs it may have. This is a first time test build and packaging of this so be warned.
-Maintainer: James Addyman
-Author: James Addyman
-Section: Games
-MD5sum: 
+MD5sum: MD5
 Size: 13719424
 Filename: debs/com.jamsoftonline.provenance_1.2_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.jamsoftonline.provenance
@@ -32,7 +19,7 @@ Description: This involved having to fix numerous problems relating to the added
 Maintainer: Riley Testut
 Author: Riley Testut
 Section: Applications
-MD5sum: 
+MD5sum: MD5
 Size: 7813290
 Filename: debs/com.rileytestut.tcrawford.gba4ios_2.1_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.rileytestut.tcrawford.gba4ios
@@ -46,7 +33,7 @@ Description: InfiniBoot4 for iPhone 4/4s is a beautiful boot logo that mesmerize
 Maintainer: superp0s
 Author: superp0s
 Section: Addons (BootLogo)
-MD5sum: 
+MD5sum: MD5
 Size: 4395016
 Filename: debs/com.superp0s.infiniboot4_1.0.1_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot4
@@ -60,7 +47,7 @@ Description: InfiniBoot5for iPhone 5/5s/5c is a beautiful boot logo that mesmeri
 Maintainer: superp0s
 Author: superp0s
 Section: Addons (BootLogo)
-MD5sum: 
+MD5sum: MD5
 Size: 4425414
 Filename: debs/com.superp0s.infiniboot5_1.0_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot5
@@ -74,7 +61,7 @@ Description: InfiniBoot6 for iPhone 6 is a beautiful boot logo that mesmerizes y
 Maintainer: superp0s
 Author: superp0s
 Section: Addons (BootLogo)
-MD5sum: 
+MD5sum: MD5
 Size: 4484676
 Filename: debs/com.superp0s.infiniboot6_1.0_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot6
@@ -88,7 +75,7 @@ Description: InfiniBoot6+ for iPhone 6 Plus is a beautiful boot logo that mesmer
 Maintainer: superp0s
 Author: superp0s
 Section: Addons (BootLogo)
-MD5sum: 
+MD5sum: MD5
 Size: 4806460
 Filename: debs/com.superp0s.infiniboot6plus_1.0_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot6plus
@@ -102,7 +89,7 @@ Description: Adds a simple Android M inspried clock and date with the options to
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
 Author: tcrawford <dev.tcrawford@gmail.com>
 Section: Themes (Lockscreen)
-MD5sum: 
+MD5sum: MD5
 Size: 6862158
 Filename: debs/com.tcrawford.android-m-ls_1.4.4_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.android-m-ls
@@ -115,7 +102,7 @@ Description: Adds essential repositories so they don’t need to be added manual
 Maintainer: tcrawford
 Author: tcrawford
 Section: Utilities
-MD5sum: 
+MD5sum: MD5
 Size: 988
 Filename: debs/com.tcrawford.devrepos_1.1.5_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.devrepos
@@ -129,7 +116,7 @@ Description: This is an animation loader that appears as though it is a circle u
 Maintainer: superp0s
 Author: superp0s <superp0s.1110@gmail.com>
 Section: Themes (SpringBoard)
-MD5sum: 
+MD5sum: MD5
 Size: 151670
 Filename: debs/com.tcrawford.infiniloader_1.0.3_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.infiniloader
@@ -143,7 +130,7 @@ Description: Previously, LS Basic Clock, this very customizable clock will fit t
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
 Author: tcrawford <dev.tcrawford@gmail.com>
 Section: Themes (Lockscreen)
-MD5sum: 
+MD5sum: MD5
 Size: 301222
 Filename: debs/com.tcrawford.ls-elemental_1.1.6_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.ls-elemental
@@ -157,7 +144,7 @@ Description: Adds essential packages so they do not need to be added manually, p
 Maintainer: tcrawford
 Author: tcrawford
 Section: Utilities
-MD5sum: 
+MD5sum: MD5
 Size: 1152
 Filename: debs/com.tcrawford.personalpackages_2.0_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.personalpackages
@@ -171,7 +158,7 @@ Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
 Section: Tweaks
 Version: 1.0~beta2
-MD5sum: 
+MD5sum: MD5
 Size: 4836
 Filename: debs/ws.hbang.lockkeyboardbeta-2_1.0~beta2_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=ws.hbang.lockkeyboardbeta-2
