@@ -3,10 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>com.jamsoftonline.tcrawford.Provenance</string>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>com.jamsoftonline.tcrawford.Provenance</string>
-	</array>
+	<string>com.jamsoftonline.Provenance</string>
+	<key>get-task-allow</key>
+	<true/>
 </dict>
 </plist>
