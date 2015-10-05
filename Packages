@@ -26,6 +26,20 @@ Description: This is working on my device the way I bundled it. I am curious to 
 Author: James Addyman
 Name: Provenance
 
+Package: com.jamsoftonline.provenance
+Version: 1.2.2-1
+Architecture: iphoneos-arm
+Maintainer: James Addyman
+Filename: .//debs/com.jamsoftonline.provenance_1.2.2-1_iphoneos-arm.deb
+Size: 13730172
+MD5sum: dc00ba18d44094f3fda080a7b9ed5015
+SHA1: c9b4a331fbc221613418d751743f76dcabcae682
+SHA256: 382cf1b8d2d287f60b931c4502966337eca388bad7eff141fae5382801650550
+Section: Games
+Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
+Author: James Addyman
+Name: Provenance
+
 Package: com.rileytestut.tcrawford.GBA4iOS
 Version: 2.1
 Architecture: iphoneos-arm
