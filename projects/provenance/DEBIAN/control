@@ -1,8 +1,8 @@
 Package: com.jamsoftonline.provenance
 Name: Provenance
-Version: 1.2.1-2
+Version: 1.2.1-3
 Architecture: iphoneos-arm
-Description: Provenance is a mobile emulator maintained and authored by James Addyman. It is being packaged by myself to test and allow others to download if they feel so desired. I am not responsible for any damage this may do, nor any bugs it may have. This is a first time test build and packaging of this so be warned.
+Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
 Maintainer: James Addyman
 Author: James Addyman
 Section: Games
