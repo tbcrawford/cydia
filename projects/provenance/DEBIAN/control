@@ -1,6 +1,6 @@
 Package: com.jamsoftonline.provenance
 Name: Provenance
-Version: 1.2.1-3
+Version: 1.2.2
 Architecture: iphoneos-arm
 Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
 Maintainer: James Addyman

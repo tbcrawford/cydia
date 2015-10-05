@@ -13,14 +13,14 @@ Author: James Addyman
 Name: Provenance
 
 Package: com.jamsoftonline.provenance
-Version: 1.2.1-3
+Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: James Addyman
-Filename: .//debs/com.jamsoftonline.provenance_1.2.1-3_iphoneos-arm.deb
-Size: 13730118
-MD5sum: 785b694199aa10a0da00dbb01127c424
-SHA1: 2cc8f36dac5295daf15099105cec8a37affac3b3
-SHA256: ca39ced04465eed5a9ef6329a9faba11fcacc430b3a23cecb81bfd6d216a820e
+Filename: .//debs/com.jamsoftonline.provenance_1.2.2_iphoneos-arm.deb
+Size: 13730116
+MD5sum: 27e673e1cf887fd6602c5203e56f4ee6
+SHA1: 45713a5f2185a352770d5008742d91399eac791f
+SHA256: cd01546161c9f3ddbef7195a4a2638bf5cf06cf076e9a68d5fb0fbb2b9ebc1fc
 Section: Games
 Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
 Author: James Addyman
