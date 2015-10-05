@@ -17,10 +17,10 @@ Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: James Addyman
 Filename: .//debs/com.jamsoftonline.provenance_1.2.2_iphoneos-arm.deb
-Size: 13730116
-MD5sum: 27e673e1cf887fd6602c5203e56f4ee6
-SHA1: 45713a5f2185a352770d5008742d91399eac791f
-SHA256: cd01546161c9f3ddbef7195a4a2638bf5cf06cf076e9a68d5fb0fbb2b9ebc1fc
+Size: 13730170
+MD5sum: 4ab21c34cc49421bcde8b7c53b26c07c
+SHA1: 39c64d9e32825eda496b4d51ac910ae0b1ce1327
+SHA256: 0fa6d36a7a900ab227f0a331a4b0df66d065a61d10d9b4e9d187a8bdebea16dd
 Section: Games
 Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
 Author: James Addyman
