@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>com.jamsoftonline.Provenance</string>
+	<string>com.jamsoftonline.tcrawford.Provenance</string>
 	<key>get-task-allow</key>
 	<true/>
 </dict>
