@@ -9,7 +9,7 @@ Section: Games
 MD5sum: 79043daafb6bca25ccd1809d5ace9ae8
 Size: 13730168
 Filename: debs/com.jamsoftonline.provenance_1.2_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.jamsoftonline.provenance
+Depiction: http://tcrawford.me/depictions/?p=com.jamsoftonline.provenance
 
 Package: com.superp0s.infiniboot4
 Name: InfiniBoot4
@@ -23,7 +23,7 @@ Section: Addons (BootLogo)
 MD5sum: 6e978028242bec319beaf2343c1ee74e
 Size: 4395016
 Filename: debs/com.superp0s.infiniboot4_1.0.1_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot4
+Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot4
 
 Package: com.superp0s.infiniboot5
 Name: InfiniBoot5
@@ -37,7 +37,7 @@ Section: Addons (BootLogo)
 MD5sum: 4c846245c39777c0fd0a93817f69d42d
 Size: 4425414
 Filename: debs/com.superp0s.infiniboot5_1.0_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot5
+Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot5
 
 Package: com.superp0s.infiniboot6
 Name: InfiniBoot6
@@ -51,7 +51,7 @@ Section: Addons (BootLogo)
 MD5sum: 15ff55a81cc0798214908f0225c9e73a
 Size: 4484676
 Filename: debs/com.superp0s.infiniboot6_1.0_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot6
+Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot6
 
 Package: com.superp0s.infiniboot6plus
 Name: InfiniBoot6+
@@ -65,7 +65,7 @@ Section: Addons (BootLogo)
 MD5sum: 6ddac940683161c7fc2ad761cbb78ebf
 Size: 4806460
 Filename: debs/com.superp0s.infiniboot6plus_1.0_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.superp0s.infiniboot6plus
+Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot6plus
 
 Package: com.tcrawford.android-m-ls
 Name: Android M LS
@@ -79,7 +79,7 @@ Section: Themes (Lockscreen)
 MD5sum: e801cf54508aeecb6e256687f8f7702c
 Size: 6862158
 Filename: debs/com.tcrawford.android-m-ls_1.4.4_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.android-m-ls
+Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.android-m-ls
 
 Package: com.tcrawford.devrepos
 Name: Repository List
@@ -92,7 +92,7 @@ Section: Utilities
 MD5sum: 91deb6f3870598ac7c4fe77b1ecbc6f0
 Size: 988
 Filename: debs/com.tcrawford.devrepos_1.1.5_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.devrepos
+Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.devrepos
 
 Package: com.tcrawford.infiniloader
 Name: InfiniLoader
@@ -106,7 +106,7 @@ Section: Themes (SpringBoard)
 MD5sum: 7069cbcc2995494b473039626694a823
 Size: 151670
 Filename: debs/com.tcrawford.infiniloader_1.0.3_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.infiniloader
+Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.infiniloader
 
 Package: com.tcrawford.ls-elemental
 Name: Elemental LS
@@ -120,7 +120,7 @@ Section: Themes (Lockscreen)
 MD5sum: b9df53f3eb8daad1b54730383f3ba085
 Size: 301222
 Filename: debs/com.tcrawford.ls-elemental_1.1.6_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.ls-elemental
+Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.ls-elemental
 
 Package: com.tcrawford.personalpackages
 Name: Personal Packages
@@ -134,7 +134,7 @@ Section: Utilities
 MD5sum: ab2d3929d8f8732b538016f96f533665
 Size: 1152
 Filename: debs/com.tcrawford.personalpackages_2.0_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.personalpackages
+Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.personalpackages
 
 Package: ws.hbang.lockkeyboardbeta-2
 Name: LockKeyboard Beta 2
@@ -148,6 +148,6 @@ Version: 1.0~beta2
 MD5sum: 43d092b84b6dd1611dbfd56e87b0b735
 Size: 4836
 Filename: debs/ws.hbang.lockkeyboardbeta-2_1.0~beta2_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=ws.hbang.lockkeyboardbeta-2
+Depiction: http://tcrawford.me/depictions/?p=ws.hbang.lockkeyboardbeta-2
 
 
