@@ -1,0 +1,18 @@
+{
+    "name": "Provenance",
+    "package": "com.jamsoftonline.provenance",
+    "author": "James Addyman",
+    "version": "1.2",
+    "description": "GB, GBC, GBA, NES, SNES emulator",
+    "changelog": {
+        "1.0.0": [
+            "Initial Release"
+        ],
+        "1.0.2": [
+            "Upates to improve the system"
+        ]
+    },
+    "links": {
+        "<span class=\"glyphicon glyphicon-heart\"></span> Developer's Twitter": "https://twitter.com/itsjake88"
+    }
+}
