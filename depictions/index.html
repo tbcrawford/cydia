@@ -92,10 +92,9 @@
 			$(document).ready(function() {
 				var dPackage = getParameterByName("p");
 				if (!dPackage) {
-					$(".package-error").text("This package doesn't seem to exist!").css("display", "block");
+					$(".package-error").text("This package doesn't seem to exist!").css("display", "block").html(dPackage);
 					$(".package-info").css("display", "none");
 					$(".package-name").text("Not Found");
-					$('html').html(dPackage);
 					return;
 				}
 
