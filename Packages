@@ -11,19 +11,6 @@ Size: 13730168
 Filename: debs/com.jamsoftonline.provenance.deb
 Depiction: https://tcrawford.me/depictions/?p=com.jamsoftonline.provenance
 
-Package: com.jamsoftonline.provenance
-Name: Provenance
-Version: 1.2
-Architecture: iphoneos-arm
-Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
-Maintainer: James Addyman
-Author: James Addyman
-Section: Games
-MD5sum: 174a05d58f16e1e146d5968600104ac2
-Size: 13730168
-Filename: debs/com.jamsoftonline.provenance_1.2_iphoneos-arm.deb
-Depiction: https://tcrawford.me/depictions/?p=com.jamsoftonline.provenance
-
 Package: com.rileytestut.tcrawford.gba4ios
 Name: GBA4iOS
 Version: 2.1
@@ -146,20 +133,6 @@ Section: Themes (Lockscreen)
 MD5sum: 2b3b8ce2074b5523e5c695f59369c23f
 Size: 301222
 Filename: debs/com.tcrawford.ls-elemental.deb
-Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.ls-elemental
-
-Package: com.tcrawford.ls-elemental
-Name: Elemental LS
-Version: 1.1.6
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Previously, LS Basic Clock, this very customizable clock will fit the wants and needs of anyone who desires simplicity.
-Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Author: tcrawford <dev.tcrawford@gmail.com>
-Section: Themes (Lockscreen)
-MD5sum: 2b3b8ce2074b5523e5c695f59369c23f
-Size: 301222
-Filename: debs/com.tcrawford.ls-elemental_1.1.6_iphoneos-arm.deb
 Depiction: https://tcrawford.me/depictions/?p=com.tcrawford.ls-elemental
 
 Package: com.tcrawford.personalpackages
