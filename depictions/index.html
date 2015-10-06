@@ -100,6 +100,7 @@
 
 				$.getJSON("packages/" + dPackage + ".json", function(data) {
 					document.title = data.name + " by " + data.author + " package: " + dPackage;
+					
 					$(".package-name").text(data.name);
 					$(".package-desc").text(data.description);
 					$(".latest-version").text(data.version);
