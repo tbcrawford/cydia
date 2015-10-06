@@ -1,8 +1,0 @@
-Package: com.rileytestut.tcrawford.gba4ios
-Name: GBA4iOS
-Version: 2.1
-Architecture: iphoneos-arm
-Description: This involved having to fix numerous problems relating to the added CocoaPods libraries. Hopefully things are indeed fix as they should be. Be warned, this is tcrawford’s test build of the GBA4iOS source code. Install this at your own risk as of now.
-Maintainer: Riley Testut
-Author: Riley Testut
-Section: Applications
