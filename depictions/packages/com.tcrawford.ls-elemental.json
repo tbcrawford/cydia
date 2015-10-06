@@ -1,0 +1,21 @@
+{
+    "name": “Elemental LS”,
+    "package": "com.tcrawford.ls-elemental”,
+    "author": “tcrawford”,
+    "version": "1.2",
+    "description": “Beautiful GroovyLock theme”,
+    "changelog": {
+        "1.0.0": [
+            "Initial Release"
+        ],
+        “1.1.6”: [
+            “Updates to the system“
+        ]
+    },
+    "screenshots": {
+        "1.jpg": “Example lock screen”,
+    },
+    "links": {
+        "<span class=\"glyphicon glyphicon-heart\"></span> Developer's Twitter": "https://twitter.com/itsjake88"
+    }
+}
