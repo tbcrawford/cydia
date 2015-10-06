@@ -56,7 +56,7 @@
 			return;
 		}
 
-		$.getJSON("/depictions/packages/" + dPackage + ".json", function(data) {
+		$.getJSON("packages/" + dPackage + ".json", function(data) {
 			document.title = data.name + " by " + data.author;
 		  $(".package-name").text(data.name);
 		  var latest = data.version;
