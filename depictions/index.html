@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="/CydiaIcon.png">
-	
+
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
@@ -57,7 +57,7 @@
 		</div>
 
 		<div class="row alert alert-danger package-error"></div>
-		
+
 		<div class="package-info">
 			<div class="package-info row">
 				<p class="package-desc"></p>
@@ -103,7 +103,7 @@
 			return;
 		}
 
-		$.getJSON("/packages/" + dPackage + ".json", function(data) {
+		$.getJSON("/depictions/packages/" + dPackage + ".json", function(data) {
 			document.title = data.name + " by " + data.author;
 		  $(".package-name").text(data.name);
 		  $(".package-desc").text(data.description);
