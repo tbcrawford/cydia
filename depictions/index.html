@@ -88,7 +88,7 @@
 
         </div>
 
-		<script>
+  		<script>
 			$(document).ready(function() {
 				var dPackage = getParameterByName("p");
 				if (!dPackage) {
@@ -98,9 +98,8 @@
 					return;
 				}
 
-				$.getJSON("packages/" + dPackage + ".json", function(data) {
-					document.title = data.name + " by " + data.author + " package: " + dPackage;
-					
+		  		$.getJSON("packages/" + dPackage + ".json", function(data) {
+					document.title = data.name + " by " + data.author;
 					$(".package-name").text(data.name);
 					$(".package-desc").text(data.description);
 					$(".latest-version").text(data.version);
@@ -110,7 +109,7 @@
 					var changes = data.changelog[data.version];
 					for (var c in changes) {
 						var change = changes[c];
-						cList.append("<li>" + c + "</li>");
+						cList.append("<li>" + change + "</li>")
 					}
 
 					$(".screenshots-header").click(function() {
