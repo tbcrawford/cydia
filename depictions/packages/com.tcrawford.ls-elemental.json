@@ -2,14 +2,14 @@
     "name": "Elemental LS",
     "package": "com.tcrawford.ls-elemental",
     "author": "tcrawford",
-    "version": "1.2",
+    "version": "1.1.6",
     "description": "Beautiful GroovyLock theme",
     "changelog": {
         "1.0.0": [
             "Initial Release"
         ],
         "1.1.6": [
-            "Updates to the system"
+            "Upates to improve the system"
         ]
     },
     "screenshots": {
