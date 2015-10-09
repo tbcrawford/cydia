@@ -1,5 +1,6 @@
 body {
     background: #efeff4;
+    margin: auto;
 }
 p {
     word-wrap: break-word;
@@ -24,7 +25,7 @@ p {
 }
 .card {
     background: #FFFFFF;
-    max-width: 368px;
+    max-width: 300px;
 }
 .card-header,
 .card-block {
