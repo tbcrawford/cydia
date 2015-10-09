@@ -1,6 +1,7 @@
 $(document).ready(function() {
     // Get the packageID from the URL
     var packageID = getParameterByName("p");
+    console.log(packageID);
 
     var deviceVersion = navigator.userAgent;
     console.log(deviceVersion);
@@ -71,7 +72,7 @@ $(document).ready(function() {
     })
     .fail(function() {
         $(".package-error").text("An error occurred while retrieving package info!").css("display", "block");
-        $(".package-name").text("Repository Error");
+        $(".package-name").text("Repository Error").css("color", "red");
         return;
     });
     function getParameterByName(name) {
