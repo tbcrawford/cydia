@@ -1,11 +1,12 @@
 body {
     background: #efeff4;
+    margin: auto;
 }
 p {
     word-wrap: break-word;
     max-width: 250px;
     margin: auto;
-    font-size: 90%;
+    font-size: 80%;
 }
 .screenshots {
     display: none;
@@ -27,6 +28,7 @@ p {
 }
 .card {
     background: #FFFFFF;
+    max-width: 300px;
 }
 .card-header,
 .card-block {
