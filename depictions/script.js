@@ -38,7 +38,7 @@ $(document).ready(function() {
 
         var count = 0;
         var screenshots = data.screenshots;
-        if (screenshots !== null) {
+        if (screenshots) {
             var sKeys = Object.keys(screenshots);
             for (var s in sKeys) {
                 var screenshot = sKeys[s];
