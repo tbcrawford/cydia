@@ -2,7 +2,7 @@ body {
     background: #efeff4;
 }
 p {
-    
+    word-wrap: break-word;
 }
 .screenshots {
     display: none;
