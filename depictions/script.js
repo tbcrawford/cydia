@@ -14,7 +14,7 @@ $(document).ready(function() {
     }
 
     // Get information from the JSON file
-    $.getJSON("packages/" + packageID + ".json", function(data) {
+    $.getJSON("/depictions/packages/" + packageID + ".json", function(data) {
         console.log("JSON FOUND! WTF?");
 
         document.title = data.name + " by " + data.author;
