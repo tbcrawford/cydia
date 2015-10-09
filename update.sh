@@ -63,7 +63,7 @@ if [[ $1 == *"p"* || $1 == *"a"* ]]; then
         shasum -a 256 "$deb" | echo "SHA256: $(awk '{ print $1 }')" >> Packages
         wc -c "$deb" | echo "Size: $(awk '{ print $1 }')" >> Packages
         echo "Filename: $deb" >> Packages
-        dpkg-deb -f "$deb" Packages |  echo "Depiction: $(head -n 1 SITENAME)/depictions/?p=$(dpkg-deb -f $deb Package)" >> Packages
+        dpkg-deb -f "$deb" Packages |  echo "Depiction: $(head -n 1 CNAME)/depictions/?p=$(dpkg-deb -f $deb Package)" >> Packages
         echo "" >> Packages
     done
 
