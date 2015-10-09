@@ -1,11 +1,8 @@
 $(document).ready(function() {
     // Get the packageID from the URL
     var packageID = getParameterByName("p");
-    console.log(packageID);
-
     var deviceVersion = navigator.userAgent;
-    console.log(deviceVersion);
-
+    
     // If no packageID is available, display an error message
     if (!packageID) {
         $(".package-error").text("This package doesn't seem to exist!").css("display", "block");
