@@ -14,9 +14,7 @@ $(document).ready(function() {
     }
 
     // Get information from the JSON file
-    $.getJSON("/depictions/packages/" + packageID + ".json", function(data) {
-        console.log("JSON FOUND! WTF?");
-
+    $.getJSON("packages/" + packageID + ".json", function(data) {
         document.title = data.name + " by " + data.author;
         $(".package-name").text(data.name);
         $(".package-desc").text(data.description);
@@ -56,6 +54,7 @@ $(document).ready(function() {
             });
             $(".turn").toggleClass("left");
         });
+
         var latest = data.version;
         var versions = Object.keys(data.changelog).reverse();
         for (var v in versions) {
