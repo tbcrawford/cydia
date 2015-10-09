@@ -29,6 +29,7 @@ p {
 .card-header,
 .card-block {
     border-radius: 30px;
+    max-width: inherit;
 }
 .rotate {
     -moz-transition: all 0.3s linear;
