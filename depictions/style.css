@@ -28,7 +28,8 @@ p {
 .card {
     background: #FFFFFF;
     max-width: 300px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 .card-header,
 .card-block {
