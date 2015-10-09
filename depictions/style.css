@@ -1,11 +1,11 @@
 body {
     background: #efeff4;
-    font-size: small;
 }
 p {
     word-wrap: break-word;
     max-width: 250px;
     margin: auto;
+    font-size: 90%;
 }
 .screenshots {
     display: none;
