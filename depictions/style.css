@@ -24,6 +24,7 @@ p {
 }
 .card {
     background: #FFFFFF;
+    max-width: 368px;
 }
 .card-header,
 .card-block {
