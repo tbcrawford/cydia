@@ -2,7 +2,7 @@ $(document).ready(function() {
     // Get the packageID from the URL
     var packageID = getParameterByName("p");
     var deviceVersion = navigator.userAgent;
-    
+
     // If no packageID is available, display an error message
     if (!packageID) {
         $(".package-error").text("This package doesn't seem to exist!").css("display", "block");
@@ -22,7 +22,7 @@ $(document).ready(function() {
         var changes = data.changelog[data.version];
         for (var c in changes) {
             var change = changes[c];
-            cList.append("<li>" + change + "</li>")
+            cList.append("<li><p>" + change + "</p></li>")
         }
 
         $(".screenshots-header").click(function() {
@@ -65,7 +65,7 @@ $(document).ready(function() {
             var changes = data.changelog[version];
             for (var c in changes) {
                 var change = changes[c];
-                card.find(".changelog-list").append("<li>" + change + "</li>");
+                card.find(".changelog-list").append("<li><p>" + change + "</p></li>");
             }
             $(".package-versions").append(card);
         }

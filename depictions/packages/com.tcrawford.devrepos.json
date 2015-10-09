@@ -10,7 +10,7 @@
 		],
 		"1.1.5": [
 			"By now there was some sort of major overhaul that I got to a version 1.1.0.",
-			"Also! Regarding this versioning system: <major>.<minor>.<bug>, it's likely that 'bugs' were just the removal or addtion of a single repo, or fix if something was entered incorrectly"
+			"Also! Regarding this versioning system: (major).(minor).(bug), it's likely that 'bugs' were just the removal or addtion of a single repo, or fix if something was entered incorrectly"
 		]
 	},
 	"compatibility": {
