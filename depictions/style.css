@@ -1,0 +1,52 @@
+body {
+    background: #efeff4;
+}
+.screenshots {
+    display: none;
+}
+.fullchangelog {
+    display: none;
+}
+.latest-version {
+    vertical-align: right;
+}
+.remove-space {
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -14px;
+    border-radius: 0 !important;
+}
+.remove-big {
+    margin-bottom: -32px;
+}
+.card {
+    background: #FFFFFF;
+}
+.card-header,
+.card-block {
+    border-radius: 30px;
+}
+.rotate {
+    -moz-transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+.turn {
+    -moz-transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+.rotate.down,
+.turn.left {
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+.subshots {
+    text-align: center;
+}
+.subshots:nth-child(1) {
+    margin-bottom: 10px;
+}

@@ -1,16 +1,18 @@
 {
-	"name": "Provenance",
-	"package": "com.jamsoftonline.provenance",
-	"author": "James Addyman",
-	"version": "1.2",
+	"name": "Elemental LS",
+	"package": "com.tcrawford.ls-android-m",
+	"author": "tcrawford",
+	"version": "1.4.4",
 	"description": "Adds a simple Android M inspried clock and date with the options to change clock color, date color, 12 or 24 hour clock, font-family (Which can be one of the following: 'Roboto-Regular', 'Roboto-Medium', 'Roboto-Thin', or 'Roboto-Light'), and the position from the top of the screen.",
 	"changelog": {
 		"1.0.0": [
 			"Initial Release"
 		],
-		"1.2": [
-			"Many updates were added from the initial release.",
-            "Consult the Github repository which can be found here: https://github.com/jasarien/Provenance"
+		"1.4.4": [
+			"Added many more customizability options from the initial release.",
+			"Squashed some bugs.",
+			"Optimized the overall Lockscreen Theme.",
+            "Added a bunch of fonts."
 		]
 	},
 	"compatibility": {

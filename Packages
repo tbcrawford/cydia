@@ -1,153 +1,163 @@
 Package: com.jamsoftonline.provenance
-Name: Provenance
 Version: 1.2
 Architecture: iphoneos-arm
-Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
 Maintainer: James Addyman
-Author: James Addyman
-Section: Games
-MD5sum: 79043daafb6bca25ccd1809d5ace9ae8
+Filename: .//debs/com.jamsoftonline.provenance_1.2_iphoneos-arm.deb
 Size: 13730168
-Filename: debs/com.jamsoftonline.provenance_1.2_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.jamsoftonline.provenance
+MD5sum: 79043daafb6bca25ccd1809d5ace9ae8
+SHA1: 5dc3a59511e9f405f31eef05597832f7cf4645c1
+SHA256: 225005fbc245a29158f2bfae0a8a34401b069801dda8b14d762215b06015bf63
+Section: Games
+Description: This is working on my device the way I bundled it. I am curious to know if it works on others. If this is working for you as well, shoot me an email saying so at dev.tcrawford@gmail.com only up to 2 weeks after Monday 10/5/15. I’d appreciate knowing I’m doing things correctly.
+Author: James Addyman
+Name: Provenance
 
 Package: com.superp0s.infiniboot4
-Name: InfiniBoot4
 Version: 1.0.1
 Architecture: iphoneos-arm
-Depends: com.zaxdo.animate8
-Description: InfiniBoot4 for iPhone 4/4s is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Maintainer: superp0s
-Author: superp0s
-Section: Addons (BootLogo)
-MD5sum: 6e978028242bec319beaf2343c1ee74e
+Depends: com.zaxdo.animate8
+Filename: .//debs/com.superp0s.infiniboot4_1.0.1_iphoneos-arm.deb
 Size: 4395016
-Filename: debs/com.superp0s.infiniboot4_1.0.1_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot4
+MD5sum: 6e978028242bec319beaf2343c1ee74e
+SHA1: 1b5663e504498fb53392265c23ec6213154d93c4
+SHA256: 696fcdbf1ab85e43daff51d017af8d65bf2cc1ae72137fdfd571ff618687ff2e
+Section: Addons (BootLogo)
+Description: InfiniBoot4 for iPhone 4/4s is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
+Author: superp0s
+Name: InfiniBoot4
 
 Package: com.superp0s.infiniboot5
-Name: InfiniBoot5
 Version: 1.0
 Architecture: iphoneos-arm
-Depends: com.zaxdo.animate8
-Description: InfiniBoot5for iPhone 5/5s/5c is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Maintainer: superp0s
-Author: superp0s
-Section: Addons (BootLogo)
-MD5sum: 4c846245c39777c0fd0a93817f69d42d
+Depends: com.zaxdo.animate8
+Filename: .//debs/com.superp0s.infiniboot5_1.0_iphoneos-arm.deb
 Size: 4425414
-Filename: debs/com.superp0s.infiniboot5_1.0_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot5
+MD5sum: 4c846245c39777c0fd0a93817f69d42d
+SHA1: c6dc4d84296c6c882044cb41bf69feed8af270cf
+SHA256: f501295d274f238c4fa4a5f2375ca4053cee7a5446d30fdbe99e47f4559f22dc
+Section: Addons (BootLogo)
+Description: InfiniBoot5for iPhone 5/5s/5c is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
+Author: superp0s
+Name: InfiniBoot5
 
 Package: com.superp0s.infiniboot6
-Name: InfiniBoot6
 Version: 1.0
 Architecture: iphoneos-arm
-Depends: com.zaxdo.animate8
-Description: InfiniBoot6 for iPhone 6 is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Maintainer: superp0s
-Author: superp0s
-Section: Addons (BootLogo)
-MD5sum: 15ff55a81cc0798214908f0225c9e73a
+Depends: com.zaxdo.animate8
+Filename: .//debs/com.superp0s.infiniboot6_1.0_iphoneos-arm.deb
 Size: 4484676
-Filename: debs/com.superp0s.infiniboot6_1.0_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot6
+MD5sum: 15ff55a81cc0798214908f0225c9e73a
+SHA1: 4d25602c1dee5377b7f15b4ed62f8faa9c6e6688
+SHA256: 5a1b36cea85df42a6a6d3929668b357ca386ec55cdba076d597c061cae1c4099
+Section: Addons (BootLogo)
+Description: InfiniBoot6 for iPhone 6 is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
+Author: superp0s
+Name: InfiniBoot6
 
 Package: com.superp0s.infiniboot6plus
-Name: InfiniBoot6+
 Version: 1.0
 Architecture: iphoneos-arm
-Depends: com.zaxdo.animate8
-Description: InfiniBoot6+ for iPhone 6 Plus is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
 Maintainer: superp0s
-Author: superp0s
-Section: Addons (BootLogo)
-MD5sum: 6ddac940683161c7fc2ad761cbb78ebf
+Depends: com.zaxdo.animate8
+Filename: .//debs/com.superp0s.infiniboot6plus_1.0_iphoneos-arm.deb
 Size: 4806460
-Filename: debs/com.superp0s.infiniboot6plus_1.0_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.superp0s.infiniboot6plus
+MD5sum: 6ddac940683161c7fc2ad761cbb78ebf
+SHA1: 6f6820ef49a6b6438628a3b4666cadc6d08790e2
+SHA256: 6b52b8eac6b30077a99525242c64b70a51330d0bfc805c2ac930ba757459ef6c
+Section: Addons (BootLogo)
+Description: InfiniBoot6+ for iPhone 6 Plus is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
+Author: superp0s
+Name: InfiniBoot6+
 
 Package: com.tcrawford.android-m-ls
-Name: Android M LS
 Version: 1.4.4
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Adds a simple Android M inspried clock and date with the options to change clock color, date color, 12 or 24 hour clock, font-family (Which can be one of the following: 'Roboto-Regular', 'Roboto-Medium', 'Roboto-Thin', or 'Roboto-Light'), and the position from the top of the screen.
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Author: tcrawford <dev.tcrawford@gmail.com>
-Section: Themes (Lockscreen)
-MD5sum: e801cf54508aeecb6e256687f8f7702c
+Depends: mobilesubstrate
+Filename: .//debs/com.tcrawford.android-m-ls_1.4.4_iphoneos-arm.deb
 Size: 6862158
-Filename: debs/com.tcrawford.android-m-ls_1.4.4_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.android-m-ls
+MD5sum: e801cf54508aeecb6e256687f8f7702c
+SHA1: 854dff3b952ebce3226ce181bcf31b411b739c2f
+SHA256: d72831844c10c824c296917cc7ce2e6b8192e3623fae6eb4956fd60b35032a48
+Section: Themes (Lockscreen)
+Description: Adds a simple Android M inspried clock and date with the options to change clock color, date color, 12 or 24 hour clock, font-family (Which can be one of the following: 'Roboto-Regular', 'Roboto-Medium', 'Roboto-Thin', or 'Roboto-Light'), and the position from the top of the screen.
+Author: tcrawford <dev.tcrawford@gmail.com>
+Name: Android M LS
 
 Package: com.tcrawford.devrepos
-Name: Repository List
 Version: 1.1.5
 Architecture: iphoneos-arm
-Description: Adds essential repositories so they don’t need to be added manually. Private use only.
 Maintainer: tcrawford
-Author: tcrawford
-Section: Utilities
-MD5sum: 91deb6f3870598ac7c4fe77b1ecbc6f0
+Filename: .//debs/com.tcrawford.devrepos_1.1.5_iphoneos-arm.deb
 Size: 988
-Filename: debs/com.tcrawford.devrepos_1.1.5_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.devrepos
+MD5sum: 91deb6f3870598ac7c4fe77b1ecbc6f0
+SHA1: 1dd573b4dd4c06b26fda2bacc85f5b5438f97c67
+SHA256: b4550a96447251bbe4926bc15fd3b978e991e31df33e90a7379dfbccbc920bc3
+Section: Utilities
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
+Author: tcrawford
+Name: Repository List
 
 Package: com.tcrawford.infiniloader
-Name: InfiniLoader
 Version: 1.0.3
 Architecture: iphoneos-arm
-Depends: winterboard
-Description: This is an animation loader that appears as though it is a circle unraveling infinitely.
 Maintainer: superp0s
-Author: superp0s <superp0s.1110@gmail.com>
-Section: Themes (SpringBoard)
-MD5sum: 7069cbcc2995494b473039626694a823
+Depends: winterboard
+Filename: .//debs/com.tcrawford.infiniloader_1.0.3_iphoneos-arm.deb
 Size: 151670
-Filename: debs/com.tcrawford.infiniloader_1.0.3_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.infiniloader
+MD5sum: 7069cbcc2995494b473039626694a823
+SHA1: 241fad1c3ed4b34db954fba09ec2fb2848754358
+SHA256: 7a93e34cd5923ffba124952f579d3729a20fae4279c82b05327eb714b8a2e3c7
+Section: Themes (SpringBoard)
+Description: This is an animation loader that appears as though it is a circle unraveling infinitely.
+Author: superp0s <superp0s.1110@gmail.com>
+Name: InfiniLoader
 
 Package: com.tcrawford.ls-elemental
-Name: Elemental LS
 Version: 1.1.6
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Previously, LS Basic Clock, this very customizable clock will fit the wants and needs of anyone who desires simplicity.
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
-Author: tcrawford <dev.tcrawford@gmail.com>
-Section: Themes (Lockscreen)
-MD5sum: b9df53f3eb8daad1b54730383f3ba085
+Depends: mobilesubstrate
+Filename: .//debs/com.tcrawford.ls-elemental_1.1.6_iphoneos-arm.deb
 Size: 301222
-Filename: debs/com.tcrawford.ls-elemental_1.1.6_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.ls-elemental
+MD5sum: b9df53f3eb8daad1b54730383f3ba085
+SHA1: 51f5ca4b344b8c68bb1e6f85c98ddf3d37e945c3
+SHA256: 1b036c3ddffa2e5940bd0475a7e1177f6404b1f9125fb5f43bda0c8d46b45dda
+Section: Themes (Lockscreen)
+Description: Previously, LS Basic Clock, this very customizable clock will fit the wants and needs of anyone who desires simplicity.
+Author: tcrawford <dev.tcrawford@gmail.com>
+Name: Elemental LS
 
 Package: com.tcrawford.personalpackages
-Name: Personal Packages
-Depends: com.fortysixandtwo.alkaline, org.thebigboss.appcolorclose, com.mileskabal.appinfo, com.saurik.afc2d, net.angelxwind.appsyncunified, com.rbt.batterylife, com.efrederickson.batteryusageenhancer, com.hackyouriphone.bdayspotify, com.hackyouriphone.betterwifi7, com.myrepospace.wmuff.ccclockopentoalarm8, com.noeliel.cheesecake, com.sull.colorkeyboardforios7, com.r333d.cylinder, com.hackyouriphone.ifile, org.thebigboss.gridswitcher, com.cpdigitaldarkroom.hideme8-lite, com.exile90.icleanerpro, com.codethemed.iconbundles, com.ichitaso.mobileterminal, com.evilgoldfish.lockglyph, ws.hbang.lockkeyboardbeta-2, net.angelxwind.mikoto, com.reddestdream.minimalhostsblocker, com.modmyi.minimalios8, com.tylr.mobius, com.hackyouriphone.muze, org.ilendsoft.no-percent-sign, com.pnre.noannoyance, com.greeny.notracking, openssh, org.thebigboss.photoinfo, com.efrederickson.powersaver, com.dpkgdan.powertap, com.efrederickson.reachapp, com.modmyi.rechrgforalkaline, org.thebigboss.smoothcursor, org.thebigboss.smoothpop, com.modmyi.softkeysounds, com.hackyouriphone.swipeexpander, winterboard, org.thebigboss.zanillatheme, com.myrepospace.superp0s.zanilla
 Version: 2.0
 Architecture: iphoneos-arm
-Description: Adds essential packages so they do not need to be added manually, personal use only.
 Maintainer: tcrawford
-Author: tcrawford
-Section: Utilities
-MD5sum: ab2d3929d8f8732b538016f96f533665
+Depends: com.fortysixandtwo.alkaline, org.thebigboss.appcolorclose, com.mileskabal.appinfo, com.saurik.afc2d, net.angelxwind.appsyncunified, com.rbt.batterylife, com.efrederickson.batteryusageenhancer, com.hackyouriphone.bdayspotify, com.hackyouriphone.betterwifi7, com.myrepospace.wmuff.ccclockopentoalarm8, com.noeliel.cheesecake, com.sull.colorkeyboardforios7, com.r333d.cylinder, com.hackyouriphone.ifile, org.thebigboss.gridswitcher, com.cpdigitaldarkroom.hideme8-lite, com.exile90.icleanerpro, com.codethemed.iconbundles, com.ichitaso.mobileterminal, com.evilgoldfish.lockglyph, ws.hbang.lockkeyboardbeta-2, net.angelxwind.mikoto, com.reddestdream.minimalhostsblocker, com.modmyi.minimalios8, com.tylr.mobius, com.hackyouriphone.muze, org.ilendsoft.no-percent-sign, com.pnre.noannoyance, com.greeny.notracking, openssh, org.thebigboss.photoinfo, com.efrederickson.powersaver, com.dpkgdan.powertap, com.efrederickson.reachapp, com.modmyi.rechrgforalkaline, org.thebigboss.smoothcursor, org.thebigboss.smoothpop, com.modmyi.softkeysounds, com.hackyouriphone.swipeexpander, winterboard, org.thebigboss.zanillatheme, com.myrepospace.superp0s.zanilla
+Filename: .//debs/com.tcrawford.personalpackages_2.0_iphoneos-arm.deb
 Size: 1152
-Filename: debs/com.tcrawford.personalpackages_2.0_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.personalpackages
+MD5sum: ab2d3929d8f8732b538016f96f533665
+SHA1: 43dc4e8f2d8efb3c729a8c5f55ebd0da3f4354a4
+SHA256: af2139a1afdb2c804c887346d981615b7f1d59b8400cd8a94ed57d64bcf93eed
+Section: Utilities
+Description: Adds essential packages so they do not need to be added manually, personal use only.
+Author: tcrawford
+Name: Personal Packages
 
 Package: ws.hbang.lockkeyboardbeta-2
-Name: LockKeyboard Beta 2
-Depends: mobilesubstrate, firmware (>= 7.1)
-Architecture: iphoneos-arm
-Description: Lock screen style keyboard everywhere. This is a save of beta 2 for ease of installation
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Author: HASHBANG Productions <support@hbang.ws>
-Section: Tweaks
 Version: 1.0~beta2
-MD5sum: 43d092b84b6dd1611dbfd56e87b0b735
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: mobilesubstrate, firmware (>= 7.1)
+Filename: .//debs/ws.hbang.lockkeyboardbeta-2_1.0~beta2_iphoneos-arm.deb
 Size: 4836
-Filename: debs/ws.hbang.lockkeyboardbeta-2_1.0~beta2_iphoneos-arm.deb
-Depiction: http://tcrawford.me/depictions/?p=ws.hbang.lockkeyboardbeta-2
-
+MD5sum: 43d092b84b6dd1611dbfd56e87b0b735
+SHA1: f90f233965bebed26fec11a6200b5bfccf544df0
+SHA256: 2f641fbda52ef9f90e1350dfcf53d74fd4344238273e0c39116b0880dcd4a174
+Section: Tweaks
+Description: Lock screen style keyboard everywhere. This is a save of beta 2 for ease of installation
+Author: HASHBANG Productions <support@hbang.ws>
+Name: LockKeyboard Beta 2
 
