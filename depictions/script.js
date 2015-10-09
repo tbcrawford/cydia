@@ -38,15 +38,17 @@ $(document).ready(function() {
 
         var count = 0;
         var screenshots = data.screenshots;
-        var sKeys = Object.keys(screenshots);
-        for (var s in sKeys) {
-            var screenshot = sKeys[s];
-            if (count % 2 === 0) {
-                $(".screenshots").append("<div class=\"subshots col-xs-12\"></div>");
+        if (screenshots !== null) {
+            var sKeys = Object.keys(screenshots);
+            for (var s in sKeys) {
+                var screenshot = sKeys[s];
+                if (count % 2 === 0) {
+                    $(".screenshots").append("<div class=\"subshots col-xs-12\"></div>");
+                }
+                // $(".screenshots .subshots:last-child").append("<div class=\"col-xs-6\"><img class=\"img-responsive\" src=\"screenshots/" + packageID + "/" + screenshot + "\" title=\"" + screenshots[screenshot] + "\"><p>" + screenshots[screenshot] + "</p><br></div>");
+                $(".screenshots .subshots:last-child").append("<div class=\"col-xs-6\"><a href=\"screenshots/" + packageID + "/" + screenshot + "\" target=\"_blank\"><img class=\"img-responsive\" src=\"screenshots/" + packageID + "/" + screenshot + "\" title=\"" + screenshots[screenshot] + "\"></a><p>" + screenshots[screenshot] + "</p><br></div>");
+                count += 1;
             }
-            // $(".screenshots .subshots:last-child").append("<div class=\"col-xs-6\"><img class=\"img-responsive\" src=\"screenshots/" + packageID + "/" + screenshot + "\" title=\"" + screenshots[screenshot] + "\"><p>" + screenshots[screenshot] + "</p><br></div>");
-            $(".screenshots .subshots:last-child").append("<div class=\"col-xs-6\"><a href=\"screenshots/" + packageID + "/" + screenshot + "\" target=\"_blank\"><img class=\"img-responsive\" src=\"screenshots/" + packageID + "/" + screenshot + "\" title=\"" + screenshots[screenshot] + "\"></a><p>" + screenshots[screenshot] + "</p><br></div>");
-            count += 1;
         }
 
         $(".fullchangelog-header").click(function() {
