@@ -1,9 +1,11 @@
 body {
     background: #efeff4;
+    font-size: small;
 }
 p {
     word-wrap: break-word;
-    max-width: 280px;
+    max-width: 250px;
+    margin: auto;
 }
 .screenshots {
     display: none;
