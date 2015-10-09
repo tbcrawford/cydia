@@ -1,9 +1,11 @@
 body {
     background: #efeff4;
-    margin: auto;
 }
 p {
     word-wrap: break-word;
+}
+.container {
+    margin: auto;
 }
 .screenshots {
     display: none;
