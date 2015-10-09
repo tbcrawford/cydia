@@ -15,6 +15,8 @@ $(document).ready(function() {
 
     // Get information from the JSON file
     $.getJSON("packages/" + packageID + ".json", function(data) {
+        console.log("JSON FOUND! WTF?");
+
         document.title = data.name + " by " + data.author;
         $(".package-name").text(data.name);
         $(".package-desc").text(data.description);
