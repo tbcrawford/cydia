@@ -3,6 +3,7 @@ body {
 }
 p {
     word-wrap: break-word;
+    max-width: 280px;
 }
 .screenshots {
     display: none;
@@ -28,7 +29,6 @@ p {
 .card-header,
 .card-block {
     border-radius: 30px;
-    max-width: 280px;
 }
 .rotate {
     -moz-transition: all 0.3s linear;
