@@ -25,16 +25,17 @@ p {
 .remove-big {
     margin-bottom: -32px;
 }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
 .card {
     background: #FFFFFF;
     max-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
 }
 .card-header,
 .card-block {
     border-radius: 30px;
-    max-width: inherit;
 }
 .rotate {
     -moz-transition: all 0.3s linear;
