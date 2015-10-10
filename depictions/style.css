@@ -17,14 +17,14 @@ p {
     vertical-align: right;
 }
 .remove {
-    margin-left: -10px;
-    margin-right: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
     margin-top: -7px;
     border-radius: 0 !important;
 }
 .remove-space {
-    margin-left: -10px;
-    margin-right: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
     margin-top: -14px;
     border-radius: 0 !important;
 }
@@ -38,7 +38,6 @@ p {
 .card {
     background: #FFFFFF;
     max-width: 300px;
-    border-radius: 30px;
 }
 .card-header,
 .card-block {
