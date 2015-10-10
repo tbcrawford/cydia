@@ -73,6 +73,7 @@ $(document).ready(function() {
                 card.find(".changelog-list").append("<li><p>" + change + "</p></li>");
             }
             $(".package-versions").append(card);
+            count++;
         }
     })
     .fail(function() {
