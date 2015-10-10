@@ -3,7 +3,7 @@ body {
 }
 p {
     word-wrap: break-word;
-    max-width: 270px;
+    max-width: 250px;
     margin: auto;
     font-size: 80%;
 }
