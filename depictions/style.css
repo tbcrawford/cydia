@@ -16,6 +16,11 @@ p {
 .latest-version {
     vertical-align: right;
 }
+.remove {
+    margin-left: -10px;
+    margin-right: -10px;
+    border-radius: 0 !important;
+}
 .remove-space {
     margin-left: -10px;
     margin-right: -10px;

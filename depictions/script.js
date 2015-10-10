@@ -58,9 +58,9 @@ $(document).ready(function() {
         for (var v in versions) {
             var version = versions[v];
             if (count === 0) {
-                var card = $("<div class=\"card remove-space\"></div>");
+                var card = $("<div class=\"card remove\"></div>");
             } else {
-                var card = $("<div class=\"card\"></div>");
+                var card = $("<div class=\"card remove-space\"></div>");
             }
             card.append(" <div class=\"card-header\">" + version + "</div>");
             card.append(" <div class=\"card-block changelog-list\"></div>");
