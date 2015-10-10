@@ -42,7 +42,7 @@ $(document).ready(function() {
                 }
                 // $(".screenshots .subshots:last-child").append("<div class=\"col-xs-6\"><img class=\"img-responsive\" src=\"screenshots/" + packageID + "/" + screenshot + "\" title=\"" + screenshots[screenshot] + "\"><p>" + screenshots[screenshot] + "</p><br></div>");
                 $(".screenshots .subshots:last-child").append("<div class=\"col-xs-6\"><a href=\"screenshots/" + packageID + "/" + screenshot + "\" target=\"_blank\"><img class=\"img-responsive\" src=\"screenshots/" + packageID + "/" + screenshot + "\" title=\"" + screenshots[screenshot] + "\"></a><p>" + screenshots[screenshot] + "</p><br></div>");
-                count += 1;
+                count++;
             }
         }
 
@@ -54,9 +54,14 @@ $(document).ready(function() {
 
         var latest = data.version;
         var versions = Object.keys(data.changelog).reverse();
+        count = 0;
         for (var v in versions) {
             var version = versions[v];
-            var card = $("<div class=\"card remove-space\"></div>");
+            if (count === 0) {
+                var card = $("<div class=\"card\"></div>");
+            } else {
+                var card = $("<div class=\"card remove-space\"></div>");
+            }
             card.append(" <div class=\"card-header\">" + version + "</div>");
             card.append(" <div class=\"card-block changelog-list\"></div>");
             if (version === latest) {
