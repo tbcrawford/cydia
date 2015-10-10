@@ -17,14 +17,14 @@ p {
     vertical-align: right;
 }
 .remove {
-    margin-left: -12px;
-    margin-right: -12px;
+    margin-left: -11px;
+    margin-right: -11px;
     margin-top: -7px;
     border-radius: 0 !important;
 }
 .remove-space {
-    margin-left: -12px;
-    margin-right: -12px;
+    margin-left: -11px;
+    margin-right: -11px;
     margin-top: -14px;
     border-radius: 0 !important;
 }
