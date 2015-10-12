@@ -75,11 +75,14 @@ fi
 
 if [[ $1 == *"u"* || $1 == *"a"* ]]; then
     git add -A
-    now=$(date +"%r %D")
 
-    # TODO: ADD ABILITY FOR CUSTOM COMMIT, i.e. everything after arg $1 is commit message
+    if [ -z "$2" ]; then
+        now=$(date +"%r %D")
+        git commit -m "Repo Updates - $now"
+    else
+        git commit -m "${*:2}"
+    fi
 
-    git commit -m "Repo Updates - $now"
     git push
     echo "Updated Github repository"
 fi
