@@ -2,7 +2,7 @@
 	"name": "Repository List",
 	"package": "com.tcrawford.devrepos",
 	"author": "tcrawford",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"description": "Adds essential repositories so they don’t need to be added manually. The package adds the following repositories: http://apt.steverolfe.com/, http://chewitt.me/repo/, http://coolstar.org/publicrepo/, http://cydia.angelXwind.net/, http://cydia.myrepospace.com/imlemonpartying/, http://cydia.myrepospace.com/wmuff/, http://cydia.ppsspp.org/, http://getdelta.co/, http://repo.hackyouriphone.org/, http://repo.insanelyi.com/, http://repo.maxkatzmann.us, http://repo.pnre.co/, http://repo.thireus.com/, http://repo.tylercasson.com/, http://rpetri.ch/repo/, http://wynd07.appspot.com/r7/, http://pw5a29.github.io/, http://arcetera.github.io, http://elijahandandrew.com/repo, http://repo.cydro.us/",
 	"changelog": {
 		"1.0.0": [
