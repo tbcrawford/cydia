@@ -20,3 +20,4 @@ deb http://elijahandandrew.com/repo ./
 deb http://repo.cydro.us/ ./
 deb http://cydia.myrepospace.com/wmuff/ ./
 deb http://nvahren.github.io/cydia/ ./
+deb http://repo.cpdigitaldarkroom.com/ ./

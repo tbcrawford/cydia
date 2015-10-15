@@ -123,6 +123,21 @@ Size: 984
 Filename: debs/com.tcrawford.devrepos_1.2.0_iphoneos-arm.deb
 Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.devrepos
 
+Package: com.tcrawford.devrepos
+Name: Repository List
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
+Maintainer: tcrawford
+Author: tcrawford
+Section: Utilities
+MD5sum: 2f850420029b2881f85563446017ded7
+SHA1: e249afde6a7e0f90841241f021484a6ad859ff56
+SHA256: b6ea4bedcb0177a80af3c85025c5e54be8bfbf44457b3da7c2af58433c7d283f
+Size: 998
+Filename: debs/com.tcrawford.devrepos_1.2.1_iphoneos-arm.deb
+Depiction: http://tcrawford.me/depictions/?p=com.tcrawford.devrepos
+
 Package: com.tcrawford.infiniloader
 Name: InfiniLoader
 Version: 1.0.3
