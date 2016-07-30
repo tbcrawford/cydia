@@ -168,6 +168,21 @@ Size: 1036
 Filename: debs/com.tcrawford.devrepos_1.3.0_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.devrepos
 
+Package: com.tcrawford.devrepos
+Name: Repository List
+Version: 1.3.1
+Architecture: iphoneos-arm
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
+Maintainer: tcrawford
+Author: tcrawford
+Section: Utilities
+MD5sum: a26a4a888c7cac48276455e09f3873ee
+SHA1: 7ba4c8d443bd0d4cf7747ba6bc6f8958112cb452
+SHA256: 878f07b4733b75f6186694b6be92f3792ea66ef5a2e73731d90db69ee56be0c7
+Size: 1030
+Filename: debs/com.tcrawford.devrepos_1.3.1_iphoneos-arm.deb
+Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.devrepos
+
 Package: com.tcrawford.infiniloader
 Name: InfiniLoader
 Version: 1.0.3
@@ -214,6 +229,22 @@ SHA1: 43dc4e8f2d8efb3c729a8c5f55ebd0da3f4354a4
 SHA256: af2139a1afdb2c804c887346d981615b7f1d59b8400cd8a94ed57d64bcf93eed
 Size: 1152
 Filename: debs/com.tcrawford.personalpackages_2.0_iphoneos-arm.deb
+Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.personalpackages
+
+Package: com.tcrawford.personalpackages
+Name: Personal Packages
+Depends: com.mileskabal.appinfo, com.saurik.afc2d, com.rbt.batterylife, com.myrepospace.wmuff.ccclockopentoalarm8, com.hackyouriphone.ifile, com.exile90.icleanerpro, com.codethemed.iconbundles, com.ichitaso.mobileterminal, net.angelxwind.mikoto, com.reddestdream.minimalhostsblocker, com.hackyouriphone.muze, com.pnre.noannoyance, com.greeny.notracking, openssh, org.thebigboss.photoinfo, com.dpkgdan.powertap, org.thebigboss.smoothcursor, org.thebigboss.smoothpop, com.modmyi.softkeysounds, winterboard
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Adds essential packages so they do not need to be added manually, personal use only.
+Maintainer: tcrawford
+Author: tcrawford
+Section: Utilities
+MD5sum: 0b416f3b12317109e109121c8477f185
+SHA1: 15bf1e473fa50823e175df53b928d6e3bf4a6a0d
+SHA256: af0a61a10284da42348603ae2bcc44e2e60714bcdc3b46bed43bb96b73846f7f
+Size: 894
+Filename: debs/com.tcrawford.personalpackages_2.1_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.personalpackages
 
 Package: ws.hbang.lockkeyboardbeta-2

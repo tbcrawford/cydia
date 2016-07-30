@@ -1,31 +1,9 @@
 Package: com.tcrawford.personalpackages
 Name: Personal Packages
-Depends:
-        com.mileskabal.appinfo,
-        com.saurik.afc2d,
-        com.rbt.batterylife,
-        com.myrepospace.wmuff.ccclockopentoalarm8,
-        com.hackyouriphone.ifile,
-        com.exile90.icleanerpro,
-        com.codethemed.iconbundles,
-        com.ichitaso.mobileterminal,
-        net.angelxwind.mikoto,
-        com.reddestdream.minimalhostsblocker,
-        com.hackyouriphone.muze,
-        com.pnre.noannoyance,
-        com.greeny.notracking,
-        openssh,
-        org.thebigboss.photoinfo,
-        com.dpkgdan.powertap,
-        org.thebigboss.smoothcursor,
-        org.thebigboss.smoothpop,
-        com.modmyi.softkeysounds,
-        winterboard
-
+Depends: com.mileskabal.appinfo, com.saurik.afc2d, com.rbt.batterylife, com.myrepospace.wmuff.ccclockopentoalarm8, com.hackyouriphone.ifile, com.exile90.icleanerpro, com.codethemed.iconbundles, com.ichitaso.mobileterminal, net.angelxwind.mikoto, com.reddestdream.minimalhostsblocker, com.hackyouriphone.muze, com.pnre.noannoyance, com.greeny.notracking, openssh, org.thebigboss.photoinfo, com.dpkgdan.powertap, org.thebigboss.smoothcursor, org.thebigboss.smoothpop, com.modmyi.softkeysounds, winterboard
 Version: 2.1
 Architecture: iphoneos-arm
-Description: Adds essential packages so they do not need to be added manually,
-personal use only.
+Description: Adds essential packages so they do not need to be added manually, personal use only.
 Maintainer: tcrawford
 Author: tcrawford
 Section: Utilities

@@ -14,7 +14,6 @@ deb http://iostonykraft.github.io/ ./
 deb http://nvahren.github.io/cydia/ ./
 deb http://pw5a29.github.io/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
-deb http://repo.cydro.us/ ./
 deb http://repo.hackyouriphone.org/ ./
 deb http://repo.insanelyi.com/ ./
 deb http://repo.ioscreatix.com/ ./
