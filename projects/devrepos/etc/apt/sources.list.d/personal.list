@@ -2,7 +2,6 @@ deb http://apt.steverolfe.com/ ./
 deb http://arcetera.github.io/ ./
 deb http://beta.unlimapps.com/ ./
 deb http://chewitt.me/repo/ ./
-deb http://chewitt.me/repo/ ./
 deb http://coolstar.org/publicrepo/ ./
 deb http://cydia.angelXwind.net/ ./
 deb http://cydia.hbang.ws/ ./
