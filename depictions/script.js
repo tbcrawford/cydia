@@ -26,8 +26,7 @@ $(document).ready(function() {
         }
 
         $(".screenshots-header").click(function() {
-            $(".screenshots").slideToggle(function() {
-            });
+            $(".screenshots").slideToggle(function() {});
             $(".rotate").toggleClass("down");
         });
 
@@ -47,8 +46,7 @@ $(document).ready(function() {
         }
 
         $(".fullchangelog-header").click(function() {
-            $(".fullchangelog").slideToggle(function() {
-            });
+            $(".fullchangelog").slideToggle(function() {});
             $(".turn").toggleClass("left");
         });
 
@@ -81,10 +79,11 @@ $(document).ready(function() {
         $(".package-name").text("Repository Error").css("color", "red");
         return;
     });
-    function getParameterByName(name) {
-        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-        results = regex.exec(location.search);
-        return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, " "));
-    }
 });
+
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
