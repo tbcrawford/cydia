@@ -1,9 +1,0 @@
-Package: com.superp0s.infiniboot4
-Name: InfiniBoot4
-Version: 1.0.1
-Architecture: iphoneos-arm
-Depends: com.zaxdo.animate8
-Description: InfiniBoot4 for iPhone 4/4s is a beautiful boot logo that mesmerizes you as you boot your phone up making the long wait time seem as though it went by in just seconds.
-Maintainer: superp0s
-Author: superp0s
-Section: Addons (BootLogo)

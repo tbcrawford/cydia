@@ -1,9 +1,0 @@
-Package: ws.hbang.lockkeyboardbeta-2
-Name: LockKeyboard Beta 2
-Depends: mobilesubstrate, firmware (>= 7.1)
-Architecture: iphoneos-arm
-Description: Lock screen style keyboard everywhere. This is a save of beta 2 for ease of installation
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Author: HASHBANG Productions <support@hbang.ws>
-Section: Tweaks
-Version: 1.0~beta2

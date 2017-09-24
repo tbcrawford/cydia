@@ -1,14 +1,18 @@
 <html>
+
 <head>
-<link rel="stylesheet" href="style.css">
-<script type="text/javascript" charset="utf-8" src="scripts/clock.js"></script>
-<script type="text/javascript" charset="utf-8" src="Config.js"></script>
-<script type="text/javascript" charset="utf-8" src="scripts/jquery-2.1.4.js"></script>
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script type="text/javascript" charset="utf-8" src="js/jquery-2.1.4.js"></script>
+    <script type="text/javascript" charset="utf-8" src="Config.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/clock.js"></script>
 </head>
-<body>
-    <div id="container">
-        <span id="clock"></span><br>
-        <span id="date"></span>
+
+<body onload="updateClock()">
+    <div class="container">
+        <div class="clock"></div>
+        <div class="date"></div>
     </div>
 </body>
+
 </html>

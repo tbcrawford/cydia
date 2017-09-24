@@ -3,23 +3,15 @@
     src: url('fonts/Quicksand-Regular.ttf');
 }
 
-html {
-    position: fixed;
-}
-
 body {
-    position: inherit;
-    left: 50%;
-    right: 50%;
-    font-family: 'Quicksand';
-    margin-top: 8%;
-    transform: translate(-50%, -50%);
+    font-family: 'Quicksand', system-ui;
+    margin: 0;
 }
 
-#box {
-
+.container {
+    text-align: center;
 }
 
-#clock {
-    padding: 10%;
+.box {
+    display: inline-block;
 }

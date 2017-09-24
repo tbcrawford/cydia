@@ -1,0 +1,10 @@
+var twentyFourHourTime = false; // 24 hour clock - true; 12 hour clock - false
+var bgColor = "rgba(0, 0, 0, 0.5)"; // Background color for overlay on screen, set alpha (0.5 value) to 0 if you do not want a color
+var timeColor = "#FFFFFF"; // Color of the time
+var dateColor = "#FFFFFF"; // Color of the date
+var clockFontSize = "102px"; // The clock's font size
+var dateFontSize = "16px"; // The date's font size
+var clockPositionFromTop = 46; // Position from the top of the screen
+var clockFont = "Roboto-Light"; // Navigate to fonts.txt in /var/mobile/Library/GroovyLock/Android M LS/fonts for options (14 font-families)
+var dateFont = "Roboto-Regular"; // Navigate to fonts.txt in /var/mobile/Library/GroovyLock/Android M LS/fonts for options (14 font-families)
+var dateTextTransform = "uppercase"; // Options: none, capitalize, uppercase, lowercase, initial, inherit
