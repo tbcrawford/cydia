@@ -6,10 +6,10 @@ Description: This is working on my device the way I bundled it. I am curious to 
 Maintainer: James Addyman
 Author: James Addyman
 Section: Games
-MD5sum: b7947b2fac5d928e0064def478d2fbb8
-SHA1: b85581a259fb13baab8728c7da0f9802ebef0b67
-SHA256: 9522785c569da788e802da1eedaf0328b4c958bac2b77d667daa4e5857178957
-Size: 13729138
+MD5sum: 91a567c3ac8e8937afd372305154e00c
+SHA1: db814d447fbac0fe77c2cc6e5d2105f50fc6c65c
+SHA256: e6a2fd9de9d7499aa25e0430b4f566ed6e9d93b86d561691bb62d637fff01840
+Size: 13728300
 Filename: debs/com.jamsoftonline.provenance_1.2_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.jamsoftonline.provenance
 
@@ -54,10 +54,10 @@ Description: InfiniBoot6 for iPhone 6 is a beautiful boot logo that mesmerizes y
 Maintainer: superp0s
 Author: superp0s
 Section: Addons (BootLogo)
-MD5sum: 871dc91ebd0f9970801e4ee3f2d8ed28
-SHA1: 692edcbe5a75d9306723b5ab01ee60843288d72a
-SHA256: 3344b33ebfd202949c35f8894d8dc03a723445e68580beca7d3566a260ce9007
-Size: 4484654
+MD5sum: 15312e8024fd940ce5f00ccdf7fdaaa7
+SHA1: 8f08449880d91fbfd546944c5cbcc6fd136a641d
+SHA256: 0b12a21a80999524a105aecb28dc569af4c4f0d8291b55086ba8069a00255b37
+Size: 4484680
 Filename: debs/com.superp0s.infiniboot6_1.0_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.superp0s.infiniboot6
 
@@ -70,10 +70,10 @@ Description: InfiniBoot6+ for iPhone 6 Plus is a beautiful boot logo that mesmer
 Maintainer: superp0s
 Author: superp0s
 Section: Addons (BootLogo)
-MD5sum: 0e72a3a3b9a3b526885f2b91ce78be58
-SHA1: f3becd9169ff9da0298a345aab15786173a01b7f
-SHA256: 9d30fd8fee7998f03b2488191cd35738c6bd25093eb9f54ebcccc0f4aff683ae
-Size: 4806488
+MD5sum: 2ebb9eafa27adc719fac818b95c5f7f1
+SHA1: b14b2c6ba03bba5777871a5feba896b823d57bd3
+SHA256: 7ed37a643f967d4ae9bce3883ed5cb2bb032e5a7c19a80264a8353e47a4e8ec8
+Size: 4806490
 Filename: debs/com.superp0s.infiniboot6plus_1.0_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.superp0s.infiniboot6plus
 
@@ -102,10 +102,10 @@ Description: Adds a simple Android M inspried clock and date with the options to
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
 Author: tcrawford <dev.tcrawford@gmail.com>
 Section: Themes (Lockscreen)
-MD5sum: b5471d19747022a4f53fb77dc750f077
-SHA1: cb6c17574c621da3030fefbdd6c939db92afd78e
-SHA256: 9d55612e9ec47d593bacf7693ff869900e308c79351940d829cb48145723640f
-Size: 20594586
+MD5sum: 150ad54db339b6cc5b2392da86dfa870
+SHA1: b1fb2cf42801c45afc1302a79d12f5e674ea45aa
+SHA256: dc0a1a01c8cd4da388f1e7bdcc0907d4b31baeb564a7ccad72a22ff76b08917d
+Size: 20591860
 Filename: debs/com.tcrawford.android-m-ls_1.5.0_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.android-m-ls
 
@@ -247,6 +247,22 @@ Size: 990
 Filename: debs/com.tcrawford.devrepos_1.3.4_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.devrepos
 
+Package: com.tcrawford.devrepos
+Depends:
+Name: Repository List
+Version: 1.3.5
+Architecture: iphoneos-arm
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
+Maintainer: tcrawford
+Author: tcrawford
+Section: Utilities
+MD5sum: d8d4cf2b7b334477f432853e7d777411
+SHA1: 369a8c9fb00811628f7681b2514ed3840bc3251e
+SHA256: 10b54fdd164a8806637e4329b8e567fa1032a0a1fd6380006193ff853026af90
+Size: 976
+Filename: debs/com.tcrawford.devrepos_1.3.5_iphoneos-arm.deb
+Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.devrepos
+
 Package: com.tcrawford.infiniloader
 Name: InfiniLoader
 Version: 1.0.3
@@ -256,10 +272,10 @@ Description: This is an animation loader that appears as though it is a circle u
 Maintainer: superp0s
 Author: superp0s <superp0s.1110@gmail.com>
 Section: Themes (SpringBoard)
-MD5sum: c18bb6da98552e23e24cfaaa3ec18c9c
-SHA1: e78cdc1744977b1366e3f40c5691ec8a52abba4c
-SHA256: 5d40b0be3bdc3037af7cdbeacdda87f5efff5901bd6c02ddc1e3b738ed7d2541
-Size: 151652
+MD5sum: 30bc08eec5962caba68b30949d6e127f
+SHA1: 77563590b945de24a10af62f016c6eb7a0f511a7
+SHA256: a9fbbccb351e89f849ac00173aba9445f6e7ebe1fde72391b8c1e6e8bc08ca76
+Size: 151664
 Filename: debs/com.tcrawford.infiniloader_1.0.3_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.infiniloader
 
@@ -288,10 +304,10 @@ Description: Previously, LS Basic Clock, this very customizable clock will fit t
 Maintainer: tcrawford <dev.tcrawford@gmail.com>
 Author: tcrawford <dev.tcrawford@gmail.com>
 Section: Themes (Lockscreen)
-MD5sum: 0dc59f6eaa5d80c9e96346ee215015f7
-SHA1: 9007e15ae1a43ded4d8a055e0e8fbf127d417a5d
-SHA256: 14ecfb2ee7c9bbd9da0d9a37a5ca94caac431f85b312ae790751e085e8638365
-Size: 308964
+MD5sum: 6f2b65774eea3c372af36ead18b85b75
+SHA1: 68d899245bfe1b7f742db83a518b04f5c1ce59de
+SHA256: b4bffd08d47aca2685bd43108afa7a216fc634cc48b0e3e2664cf85d87c4d1d1
+Size: 307398
 Filename: debs/com.tcrawford.ls-elemental_1.2.0_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.ls-elemental
 
@@ -320,9 +336,9 @@ Description: Adds essential packages so they do not need to be added manually, p
 Maintainer: tcrawford
 Author: tcrawford
 Section: Utilities
-MD5sum: f517f8f9be104017361ede5b149f2b39
-SHA1: 8d36cf6a6f4026ca93c6a3a339b5f03c6038e4c9
-SHA256: 8d0b0586c53db1135da53b114b820d658d649d312151e8a86d70df3c2ec04939
+MD5sum: a7dd43e6b2ee1d864f3a232a5608556f
+SHA1: 13e3e77f8c4d4e833b535626832219f567cce292
+SHA256: b6b5a007725a32d57eb099518edf1b0b5ddb0200a1354948abef7919c9e142ef
 Size: 890
 Filename: debs/com.tcrawford.personalpackages_2.1_iphoneos-arm.deb
 Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.tcrawford.personalpackages
